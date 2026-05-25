@@ -392,16 +392,29 @@
       gap: 8px; 
     }
 
+    /* ── Ultimate Uniform Image Gallery System ── */
+    .summary-body p:has(img) {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
     .summary-body img {
       display: block;
-      max-width: 100%;
-      height: auto;
-      margin: 16px auto;
+      width: 100%;          /* fills its grid cell */
+      height: 240px;
+      object-fit: contain;
+      background: #1c2330;
       border-radius: 6px;
       border: 1px solid var(--border);
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      transition: transform 0.2s ease;
     }
-    
+
+    .summary-body img:hover {
+      transform: scale(1.02);
+    }
+
     /* ── Sources panel ── */
     .sources-panel {
       background: var(--surface2);
