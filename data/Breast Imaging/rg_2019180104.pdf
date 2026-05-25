@@ -1,0 +1,1919 @@
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<html lang="en"
+      
+        
+      
+      
+        
+
+        
+
+        
+        
+            
+        
+        
+        
+        
+        
+
+      class="pb-page"
+         data-request-id="9f8091b21c66f7bc-ATL"  
+
+>
+
+    
+        <head data-pb-dropzone="head">
+            
+
+<meta charset="UTF-8">
+
+
+
+
+
+
+    
+        
+            
+        
+    
+        
+            
+        
+    
+        
+            
+                
+                
+<title>Three-dimensional Automated Breast US: Facts and                    ArtifactsRadioGraphics</title>
+
+
+
+
+
+                
+            
+        
+    
+        
+            
+        
+    
+
+
+
+
+
+
+
+    
+        
+            
+        
+    
+        
+            
+                
+                
+
+
+
+                
+            
+        
+    
+        
+            
+        
+    
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+        
+            <link rel="icon" href="/products/rsna/releasedAssets/images/favicon/favicon-45cb86e95e98246fbe197db1a23fbf91.ico" type="image/x-icon"/>
+        
+        
+        
+        
+        
+        
+    
+
+    
+    
+            <link rel="stylesheet" href="/products/rsna/releasedAssets/css/build-8932601a697666afa607.css" media="all" id="build-style-sheet">
+        <link rel="stylesheet" href="/products/rsna/releasedAssets/css/print-8932601a697666afa607.css"media="print">
+           <link rel="stylesheet" href="/products/rsna/releasedAssets/css/build-article-8932601a697666afa607.css" media="all" id="article-style-sheet">
+    
+        <script nonce="9f8091b21c66f7bc-ATL">
+        try {
+            document.documentElement.classList.add('js');
+        } catch (e) {
+        }
+    </script>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+                
+                    
+                    
+
+
+
+    
+        <link rel="schema.DC" href="https://purl.org/DC/elements/1.0/" /><meta name="citation_journal_title" content="RadioGraphics" /><meta name="dc.Title" content="Three-dimensional Automated Breast US: Facts and                    Artifacts" /><meta name="dc.Creator" content="Ingolf  Karst" /><meta name="dc.Creator" content="Christopher  Henley" /><meta name="dc.Creator" content="Nadine  Gottschalk" /><meta name="dc.Creator" content="Sara  Floyd" /><meta name="dc.Creator" content="Ellen                            B.  Mendelson" /><meta name="dc.Description" content="Familiarity with common patterns of automated breast US artifacts and their causes can help radiologists reduce preventable false-positive recommendations and increase efficiency." /><meta name="Description" content="Familiarity with common patterns of automated breast US artifacts and their causes can help radiologists reduce preventable false-positive recommendations and increase efficiency." /><meta name="dc.Description" content="As automated breast (AB) US becomes more integrated into the daily practice of breast imaging, the need to address the artifacts that interfere with AB US image interpretation is becoming more impo..." /><meta name="Description" content="As automated breast (AB) US becomes more integrated into the daily practice of breast imaging, the need to address the artifacts that interfere with AB US image interpretation is becoming more impo..." /><meta name="dc.Publisher" content=" Radiological Society of North America " /><meta name="dc.Date" scheme="WTN8601" content="2019-05-31" /><meta name="dc.Type" content="research-article" /><meta name="dc.Format" content="text/HTML" /><meta name="dc.Identifier" scheme="manuscript" content="180104" /><meta name="dc.Identifier" scheme="doi" content="10.1148/rg.2019180104" /><meta name="dc.Identifier" scheme="url" content="https://doi.org/10.1148/rg.2019180104" /><meta name="dc.Source" content="https://doi.org/10.1148/rg.2019180104" /><meta name="dc.Language" content="EN" /><meta name="dc.Coverage" content="world" /><meta name="dc.Rights" content="2019 by the Radiological Society of North America,                    Inc." />
+        
+        
+
+        
+            <link rel="meta" type="application/atom+xml" href="https://doi.org/10.1148%2Frg.2019180104" />
+            <link rel="meta" type="application/rdf+json" href="https://doi.org/10.1148%2Frg.2019180104" />
+            <link rel="meta" type="application/unixref+xml" href="https://doi.org/10.1148%2Frg.2019180104" />
+        
+    
+    
+    
+
+
+                    
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                    
+                    <meta name="robots" content="noarchive"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <meta property="og:title" content="Three-dimensional Automated Breast US: Facts and                    ArtifactsRadioGraphics"/>
+    
+    
+
+
+
+    
+        <meta property="og:type" content="Article"/>
+    
+    
+
+
+
+    
+        <meta property="og:url" content="https://pubs.rsna.org/doi/10.1148/rg.2019180104"/>
+    
+    
+
+
+    
+        <meta property="og:image" content="https://pubs.rsna.org/na101/home/literatum/publisher/rsna/journals/content/radiographics/2019/rg.2019.39.issue-4/rg.2019.39.issue-4/20190708/rg.2019.39.issue-4.cover.jpg" />
+        
+    
+    
+
+
+
+    
+        <meta property="og:site_name" content="RadioGraphics"/>
+    
+    
+
+
+
+    
+        <meta property="og:description" content="Familiarity with common patterns of automated breast US artifacts and their causes can help radiologists reduce preventable false-positive recommendations and increase efficiency."/>
+    
+    
+
+
+
+
+    <meta name="getftr-integrator" content="rsna"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="publication_doi" content="10.1148/rg.2019180104"/>
+<meta name="event_group_key" content="ca5f93ed-d821-4076-a388-9b2aa31bf049"/>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                
+            
+        
+    
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" nonce="9f8091b21c66f7bc-ATL">
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-29522974-1'
+                    
+                    , 'rsna.org'
+                    );
+                
+                ga('send', 'pageview');
+            </script>
+            
+
+
+
+
+<script src="//scholar.google.com/scholar_js/casa.js" async nonce="9f8091b21c66f7bc-ATL"></script>
+
+
+
+
+
+
+    <meta name="google-site-verification" content="XJTMUrgmTJh8OzWsXlbm379UB_5vp-YPmz9I5nCSDrU" />
+
+<!-- Google Tag Manager -->
+    <script nonce="9f8091b21c66f7bc-ATL">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N538WM3');</script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N538WM3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager -->
+
+<meta name="pbContext" content=";journal:journal:radiographics;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;requestedJournal:journal:radiographics;website:website:rsna-site;issue:issue:10.1148/rg.2019.39.issue-4;wgroup:string:RSNA Publication Websites;pageGroup:string:Publication Pages;article:article:10.1148/rg.2019180104">
+        </head>
+    
+
+    
+
+
+
+    
+        
+        
+        
+            <body class="pb-ui website-rsna-site">
+            
+
+
+
+
+
+
+    
+    
+        
+
+
+
+    
+    
+
+
+
+
+
+
+        <div id="pb-page-content" data-ng-non-bindable>
+                
+            <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+                
+                    
+                        
+
+
+
+        
+        <div class="radiographics">
+
+
+
+        
+        
+
+
+
+        
+        <div class="container-fluid"><div class="row"><div class=" col-lg-11">
+
+
+
+        
+        
+
+
+
+    
+        <div class="pb-las">
+            <center><div style="padding:2px; line-height:22px; max-width:860px"><span style="color:#000000;font-size:13px;">Direct login from the RSNA Journals site is temporarily unavailable for some users. If you’re unable to sign in, please log in at <a href="/action/clickThrough?id=501434&url=https%3A%2F%2Frsna.org&loc=%2Fdoi%2Fabs%2F10.1148%2Frg.2019180104%3FjournalCode%3Dradiographics&pubId=40637325&placeholderId=1059&productId=1008">RSNA.org</a> first, then navigate to the journals to access content. We are working to restore direct access.
+</span></div></center>
+            
+        </div>
+    
+
+    
+
+    
+
+
+</div></div></div>
+<header><div class="main-header"><a href="#main" class="sr-only sr-only-focusable skip-to-main-content serif font-weight-bold bg-white text-black-gray text-decoration-none p-4">Skip to main content</a><nav id="mainNavbar" class="main-navbar navbar bg-white navbar-light py-0 py-xl-8 navbar-expand-xl text-uppercase"><div class="container-fluid"><div class="navbar-in px-0">
+
+
+
+        
+        <div><a href="/" class="navbar-brand "> <img src="/pb-assets/images/logos/default-header-logo-1739265343810.svg" alt="Go to homepage"></a></div>
+<button type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="#main-menu" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"><span class="navbar-toggler__box"><span class="navbar-toggler__inner"></span></span><span class="navbar-toggler__close-text hidden text-small-bold">Close</span></button></div>
+
+
+
+        
+        <div id="main-menu" class="main-menu collapse navbar-collapse collapse-lock-screen"><div class="main-menu__nav flex-grow-1 d-flex justify-content-center"><ul class="navbar-nav"><li class="nav-item"><div class="dropdown"><a id="menu-item-0" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-mini-bold-uppercase">Journals</a><div aria-labelledby="menu-item-0" class="dropdown-menu"><a href="/action/showPublications" class="dropdown-item">All Journals</a><a href="/journal/radiology" class="dropdown-item">Radiology</a><a href="/journal/radiographics" class="dropdown-item">RadioGraphics</a><a href="/journal/ai" class="dropdown-item">Radiology: Artificial Intelligence</a><a href="/journal/cardiothoracic" class="dropdown-item">Radiology: Cardiothoracic Imaging</a><a href="/journal/imaging-cancer" class="dropdown-item">Radiology: Imaging Cancer</a><a href="https://academic.oup.com/radadv?login=false" class="dropdown-item">Radiology Advances</a></div></div></li><li class="nav-item pl-xl-24"><div class="dropdown"><a id="menu-item-1" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-mini-bold-uppercase">About</a><div aria-labelledby="menu-item-1" class="dropdown-menu"><a href="/page/authorservices" class="dropdown-item">Author Services</a><a href="https://www.rsna.org/journals/editorial-fellowships?_gl=1*1q5kpfd*_gcl_au*ODI4NjA4NTE0LjE3MzQ4NjM4Mjg.*_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*_ga_4699REKRC5*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTAwNDYuNTkuMC4w*corpRollup_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*corpRollup_ga_EQ32SZ84M3*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTAwNDYuNTkuMC4w" class="dropdown-item">Editorial Fellowships</a><a href="/page/openaccess" class="dropdown-item">Open Access</a><a href="https://envision.freeman.com/show/rsna-sponsorship-year-round/home" class="dropdown-item">Advertising</a><a href="https://marketplace.copyright.com/rs-ui-web/mp" class="dropdown-item">Permissions</a><a href="/page/new-features" class="dropdown-item">New Features</a><a href="/page/help" class="dropdown-item">Contact Us</a></div></div></li><li class="nav-item pl-xl-24"><div class="dropdown"><a id="menu-item-2" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-mini-bold-uppercase">CME</a><div aria-labelledby="menu-item-2" class="dropdown-menu"><a href="https://education.rsna.org" class="dropdown-item">CME Catalog</a><a href="https://www2.rsna.org/timssnet/cme/search_FORM.cfm" class="dropdown-item">Track your CME</a><a href="/page/cme-objectives" class="dropdown-item">CME Objectives & Tests</a></div></div></li><li class="nav-item pl-xl-24"><div class="dropdown"><a id="menu-item-3" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-mini-bold-uppercase">Subscribe</a><div aria-labelledby="menu-item-3" class="dropdown-menu"><a href="https://www2.rsna.org/timssnet/subscriptions/subprice08.cfm?_gl=1*r62uzy*_gcl_au*ODI4NjA4NTE0LjE3MzQ4NjM4Mjg.*_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*_ga_4699REKRC5*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTA3ODYuNTAuMC4w*corpRollup_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*corpRollup_ga_EQ32SZ84M3*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTA3ODYuNTAuMC4w" class="dropdown-item">Individual Subscriptions</a><a href="https://www.rsna.org/journals/subscriptions/librarian-guide?_gl=1*jhiz4i*_gcl_au*ODI4NjA4NTE0LjE3MzQ4NjM4Mjg.*_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*_ga_4699REKRC5*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTA3ODYuNTAuMC4w*corpRollup_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*corpRollup_ga_EQ32SZ84M3*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTA3ODYuNTAuMC4w" class="dropdown-item">Librarian Guide</a><a href="https://www.rsna.org/journals/subscriptions/agency-guide?_gl=1*q361t8*_gcl_au*ODI4NjA4NTE0LjE3MzQ4NjM4Mjg.*corpRollup_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*corpRollup_ga_EQ32SZ84M3*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTA5MDUuMzMuMC4w*_ga*MTUzMjY3OTIxMy4xNzM0ODYxODEy*_ga_4699REKRC5*MTczNDk0ODUwNS4yMS4xLjE3MzQ5NTA5MDUuMzMuMC4w" class="dropdown-item">Agency Guide</a><a href="/page/openaccess#readandpublish" class="dropdown-item">Read and Publish Agreements</a></div></div></li><li class="nav-item pl-xl-24"><a id="menu-item-4" href="/page/subspecialties" tabindex="" class="nav-link text-mini-bold-uppercase">Subspecialties</a></li><li class="nav-item pl-xl-24"><a id="menu-item-5" href="https://shyxp.share.hsforms.com/2-xrMz9_WRsWtLqHGjHOtgA" tabindex="" class="nav-link text-mini-bold-uppercase">Email Alerts</a></li><li class="nav-item nav-item--quick-search pl-40 pr-40 py-24 mb-32 mb-sm-0">
+
+
+
+        
+        <a href="#" aria-expanded="false" aria-label="Expand search field" aria-controls="quick-search-form-0" data-expand-label="Expand search field" data-collapse-label="Collapse search field" class="btn quick-search__trigger"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 -8 32 50" class="quick-search-icon-animated"><path d="M17.71,17.91a6.25,6.25,0,1,1,1.89-4.48,6.23,6.23,0,0,1-1.89,4.48" class="cls cls-1"></path><line x1="25.07" y1="25.15" x2="8.2" y2="8.29" class="cls cls-2"></line><line x1="8.2" y1="25.15" x2="25.07" y2="8.29" class="cls cls-3"></line></svg></a><div class="quick-search row no-gutters flex-column flex-lg-row quick-search--header flex-nowrap"><div class="d-flex align-items-center"><div class="quick-search__dropdown dropdown dropdown-selectable"><button id="dropdownMenuButton" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn dropdown-toggle">This Journal</button><div aria-labelledby="dropdownMenuButton" role="tablist" class="dropdown-menu"><a href="#quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-0" id="trigger-quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-0" data-toggle="collapse" class="dropdown-item">This Journal</a><a href="#quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-1" id="trigger-quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-1" data-toggle="collapse" class="dropdown-item">Anywhere</a></div></div></div><div class="quick-search__items col"><div aria-labelledby="#trigger-quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-0" id="quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-0" data-parent=".quick-search__items" role="tabpanel" class="collapse show "><form action="/action/doSearch" name="thisJournalQuickSearch" method="get" id="quick-search-from-090fe52c-bf26-4ca4-9198-45de34a153120" role="search"><fieldset><legend class="sr-only">Quick Search in Journals</legend><div class="input-group option-0 option-journal pb-8 pb-lg-0"><label for="AllField090fe52c-bf26-4ca4-9198-45de34a153120" class="sr-only">Enter search term</label><input type="search" id="AllField090fe52c-bf26-4ca4-9198-45de34a153120" name="AllField" autocomplete="off" placeholder="Enter search term" data-auto-complete-max-words="7" data-auto-complete-max-chars="32" data-contributors-conf="3" data-topics-conf="3" data-publication-titles-conf="3" data-history-items-conf="3" data-max-results="6" value="" class="quick-search__input form-control autocomplete"/><input type="hidden" name="SeriesKey" value="radiographics"/><div class="input-group-append"><button type="submit" title="Search" class="quick-search__btn font-weight-bold btn p-0"><span class="sr-only">Search</span><div class="d-xl-none"><span class="icon-component "><svg aria-hidden="true" style=""><use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#search"></use></svg></span></div><div class="d-none d-xl-flex"><span>Search</span><span class="icon-component "><svg aria-hidden="true" style=""><use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#arrows-right"></use></svg></span></div></button></div></div></fieldset></form></div><div aria-labelledby="#trigger-quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-1" id="quick-search-form-090fe52c-bf26-4ca4-9198-45de34a15312-1" data-parent=".quick-search__items" role="tabpanel" class="collapse "><form action="/action/doSearch" name="defaultQuickSearch" method="get" id="quick-search-from-090fe52c-bf26-4ca4-9198-45de34a153121" role="search"><fieldset><legend class="sr-only">Quick Search anywhere</legend><div class="input-group option-1  pb-8 pb-lg-0"><label for="AllField090fe52c-bf26-4ca4-9198-45de34a153121" class="sr-only">Enter search term</label><input type="search" id="AllField090fe52c-bf26-4ca4-9198-45de34a153121" name="AllField" autocomplete="off" placeholder="Enter search term" data-auto-complete-max-words="7" data-auto-complete-max-chars="32" data-contributors-conf="3" data-topics-conf="3" data-publication-titles-conf="3" data-history-items-conf="3" data-max-results="6" value="" class="quick-search__input form-control autocomplete"/><div class="input-group-append"><button type="submit" title="Search" class="quick-search__btn font-weight-bold btn p-0"><span class="sr-only">Search</span><div class="d-xl-none"><span class="icon-component "><svg aria-hidden="true" style=""><use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#search"></use></svg></span></div><div class="d-none d-xl-flex"><span>Search</span><span class="icon-component "><svg aria-hidden="true" style=""><use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#arrows-right"></use></svg></span></div></button></div></div></fieldset></form></div></div><div id="quickSearchLinks" class="quick-search__links collapse show"><a href="/search/advanced" class="btn btn-xxs">ADVANCED SEARCH</a></div></div>
+</li></ul></div><div class="main-menu__login d-xl-flex justify-content-center">
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="eCommerceCartIndicatorWidget">
+    
+        
+        
+            <a href="/action/showCart?FlowID=1" id="cartLabel" title="My Cart" aria-labelledby="cartLabelText" class="shopping-cart-indicator">
+                    <span class="position-relative mr-lg-8 mr-0 pt-lg-0 pr-lg-0">
+                        <i aria-hidden="true" class="icon-shopping-cart"></i>
+                        <span class="shopping-cart-indicator__badge sr-only"
+                              data-id="cart-size" id="cartLabelText" aria-live="polite">
+                            <span class="sr-only">Shopping cart with </span>
+                            <span class="cart-count">0</span>
+                            <span class="sr-only"> item </span>
+                        </span>
+                    </span>
+                <span class="shopping-cart-indicator__label font-weight-bold text-deep-gray">My Cart</span>
+            </a>
+        
+    
+</div>
+
+
+
+
+        
+        
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+        
+
+    
+
+
+
+
+
+
+
+<div class="login-bar text-uppercase">
+    <div class="dropdown login-dropdown">
+        <a href="#" id="loginDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+           class="nav-link dropdown-toggle font-weight-bold">Sign in | Register</a>
+
+        <div aria-labelledby="loginDropdown" class="dropdown-menu">
+
+
+            <a data-toggle="modal" data-target="#modal--login"
+                      class="dropdown-item font-weight-bold">
+                <span class="icon-component">
+                    <svg aria-hidden="true" style="">
+                        <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-4e7b815b168ae246e882517fa06afdef.spritemap.svg#user">
+
+                        </use>
+                    </svg>
+                </span>
+                Individual Login
+            </a>
+
+            <a href="/action/ssostart" class="dropdown-item font-weight-bold">
+                <span class="icon-component ">
+                    <svg aria-hidden="true" style="">
+                        <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-4e7b815b168ae246e882517fa06afdef.spritemap.svg#institution">
+                        </use>
+                    </svg>
+                </span>
+                Institutional Login
+            </a>
+
+            <div class="px-12 mt-12">
+                <a href="https://www2.rsna.org/timssnet/login/newCASAccount.cfm?tCreateAccount&amp;redirectUri=%2Fdoi%2Fabs%2F10.1148%2Frg.2019180104%3FjournalCode%3Dradiographics" class="btn btn-primary btn-small w-100 mt-2 mx-2 mb-8 text-white">Register</a>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+    
+
+
+</div><div class="d-block d-xl-none"></div></div>
+</div></nav></div>
+
+
+
+        
+        <nav id="secondaryNavbar" aria-label="Publication Menu" class="publication__menu-slider navbar navbar-expand-xl px-xl-24 px-24 px-sm-24 px-md-32 px-lg-32"><div class="container-fluid"><div class="navbar-in align-items-center"><div class="publication__menu__journal__logo">
+
+
+
+        
+        <div><a href="/journal/radiographics" title="RadioGraphics"> <img src="/pb-assets/images/logos/radiographics_logo-1741189013527.svg" alt="RadioGraphics logo"> </a></div>
+</div><div class="publication__menu__toggler"><button type="button" data-toggle="collapse" data-target="#publication__menu__content" aria-controls="#publication__menu__content" aria-expanded="false" aria-label="Open Publication Menu" class="d-xl-none align-items-center navbar-toggler animation-icon-shift text-regular font-weight-bold text-white p-0"><span class="publication__menu__toggler__title"></span><span class="icon-component "><svg aria-hidden="true" style=""><use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#arrows-right"></use></svg></span></button><button type="button" data-toggle="collapse" data-target="#publication__menu__content" aria-controls="#publication__menu__content" aria-expanded="false" aria-label="Close Publication Menu" class="d-xl-none align-items-center navbar-toggler animation-icon-shift text-regular font-weight-bold text-white p-0 hidden"><span class="mr-8">Close</span><span class="icon-component "><svg aria-hidden="true" style=""><use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#close"></use></svg></span></button></div></div><div id="publication__menu__content" class="publication__menu__content collapse navbar-collapse sidebar collapse-lock-screen align-items-center px-16 pb-40 px-xl-0 py-xl-0"><div class="publication__menu__list flex-grow-1 d-xl-flex justify-content-xl-end"><p class="publication__menu__title publication__menu__list__heading d-xl-none text-small-bold text-deep-gray mb-0 p-16"></p><ul aria-label="publication menu list" class="navbar-nav"><li class="nav-item pr-xl-24"><a id="publication-menu-item-0" href="/toc/radiographics/current" tabindex="" class="nav-link text-small-bold">Latest Articles</a></li><li class="nav-item pr-xl-24"><a id="publication-menu-item-1" href="/toc/radiographics/46/5" tabindex="" class="nav-link text-small-bold">Current Issue</a></li><li class="nav-item pr-xl-24"><a id="publication-menu-item-2" href="/loi/radiographics" tabindex="" class="nav-link text-small-bold">All Issues</a></li><li class="nav-item pr-xl-24"><div class="dropdown"><a id="publication-menu-item-3" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-small-bold">Collections</a><div aria-labelledby="publication-menu-item-3" class="dropdown-menu"><a href="/page/radiographics/specialissues" class="dropdown-item">Monograph</a><a href="/topic/article-types/arttype-cookyjar?sortBy=Earliest" class="dropdown-item">Cases from the Cooky Jar</a><a href="/page/radiographics/visual-abstract" class="dropdown-item">Visual Abstracts</a><a href="/page/podcasts#radiographics" class="dropdown-item">Podcasts</a></div></div></li><li class="nav-item pr-xl-24"><div class="dropdown"><a id="publication-menu-item-4" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-small-bold">Authors/Reviewers</a><div aria-labelledby="publication-menu-item-4" class="dropdown-menu"><a href="/page/radiographics/rgauthor_instructions" class="dropdown-item">Instructions for Authors </a><a href="https://mc.manuscriptcentral.com/rg" class="dropdown-item">Submit a Manuscript </a><a href="/page/authorservices" class="dropdown-item">Author Services</a><a href="/page/radiographics/peer-review" class="dropdown-item">For Reviewers</a></div></div></li><li class="nav-item pr-xl-24"><div class="dropdown"><a id="publication-menu-item-5" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-small-bold">Core Learning</a><div aria-labelledby="publication-menu-item-5" class="dropdown-menu"><a href="/page/radiographics/rgteam/top10Home" class="dropdown-item">Top 10 Reading List</a><a href="/page/radiographics/abr-core-exam-study-guide" class="dropdown-item">ABR Core Exam Blueprints Article Index</a><a href="/page/radiographics/aapm-physics" class="dropdown-item">AAPM Physics Curriculum Article Index</a><a href="/page/radiographics/rgteam/top30_physics" class="dropdown-item">Top 30 Physics Articles</a><a href="/page/radiographics/nis" class="dropdown-item">Noninterpretive Skills Index</a><a href="/topic/presentations/fundamentals?sortBy=Earliest" class="dropdown-item">RadioGraphics Fundamentals</a><a href="/topic/presentations/RGTutorials?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">RadioGraphics Tutorials</a><a href="/page/radiographics/on-call" class="dropdown-item">On-Call Preparation Article Index</a><a href="/action/doSearch?target=digital-object-search&amp;DOResourceTypeId=exams&amp;sortBy=PubDateField_desc " class="dropdown-item">Test Your Knowledge Quizzes</a></div></div></li><li class="nav-item pr-xl-24"><div class="dropdown"><a id="publication-menu-item-6" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-small-bold">Browse by</a><div aria-labelledby="publication-menu-item-6" class="dropdown-menu"><a href="https://chatbot-beta.rsna.org" class="dropdown-item">RadioGraphics AI Research Assistant</a><a href="/topic/subspecialty/ai?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">AI</a><a href="/topic/subspecialty/bq?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Biomarkers/Quantitative Imaging</a><a href="/topic/subspecialty/br?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Breast Imaging</a><a href="/topic/subspecialty/ca?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Cardiac Radiology</a><a href="/topic/subspecialty/ch?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Chest Radiology</a><a href="/topic/subspecialty/ct?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Computed Tomography</a><a href="/topic/subspecialty/ed?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Education</a><a href="/topic/subspecialty/er?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Emergency Radiology</a><a href="/topic/subspecialty/gi?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Gastrointestinal Radiology</a><a href="/topic/subspecialty/gn?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">General/Multisystem Radiology</a><a href="/topic/subspecialty/gu?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Genitourinary Radiology</a><a href="/topic/subspecialty/hn?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Head and Neck</a><a href="/topic/subspecialty/hp?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Health Policy</a><a href="/topic/subspecialty/in?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Informatics</a><a href="/topic/subspecialty/ir?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Interventional Radiology</a><a href="/topic/subspecialty/lm?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Leadership &amp; Management</a><a href="/topic/subspecialty/mr?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Magnetic Resonance Imaging</a><a href="/topic/subspecialty/mi?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Molecular Imaging</a><a href="/topic/subspecialty/mk?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Musculoskeletal Radiology</a><a href="/topic/subspecialty/nr?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Neuroradiology</a><a href="/topic/subspecialty/nm?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Nuclear Medicine</a><a href="/topic/subspecialty/ob?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Obstetric/Gynecologic Radiology</a><a href="/topic/subspecialty/oi?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Oncologic Imaging</a><a href="/topic/subspecialty/ot?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Other</a><a href="/topic/subspecialty/pd?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Pediatric Radiology</a><a href="/topic/subspecialty/ph?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Physics and Basic Science</a><a href="/topic/subspecialty/pr?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Professionalism</a><a href="/topic/subspecialty/ro?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Radiation Oncology</a><a href="/topic/subspecialty/rs?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Research and Statistical Methods</a><a href="/topic/subspecialty/sq?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Safety and Quality</a><a href="/topic/subspecialty/us?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Ultrasound</a><a href="/topic/subspecialty/va?sortBy=Earliest&amp;startPage=&amp;SeriesKey=radiographics" class="dropdown-item">Vascular Radiology</a></div></div></li><li class="nav-item pr-xl-24"><div class="dropdown"><a id="publication-menu-item-7" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-small-bold">Information</a><div aria-labelledby="publication-menu-item-7" class="dropdown-menu"><a href="/page/radiographics/about" class="dropdown-item">About RadioGraphics</a><a href="/page/radiographics/about#citation_metrics" class="dropdown-item">Citation Metrics</a><a href="/page/radiographics/EdBoard" class="dropdown-item">Editorial Board</a><a href="/page/radiographics/rgteam" class="dropdown-item">RG TEAM</a><a href="/page/radiographics/medical-illustration-team" class="dropdown-item">Medical Illustration Team</a><a href="/page/radiographics/podcast-team" class="dropdown-item">Podcast Team</a><a href="/page/radiographics/socialmedia" class="dropdown-item">Social Media and Digital Innovation Team</a><a href="/page/radiographics/visualabstract" class="dropdown-item">Visual Abstract Team</a></div></div></li></ul></div><div class="publication__menu__content__links d-flex flex-column align-items-xl-center flex-xl-row"></div></div><a data-toggle="collapse" href="#publication__menu__content" role="button" aria-expanded="true" aria-controls="header-side-menu" class="sidebar__overlay"></a></div></nav>
+</header>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <main data-widget-def="ux3-layout-widget" data-widget-id="center" class="content" id="main">
+        
+
+
+
+        
+        <div class="content journal-branding">
+
+
+
+        
+        <link id="build-style-article" rel="stylesheet" type="text/css" href="/products/rsna/releasedAssets/css/build-article-8932601a697666afa607.css"/><article xmlns="http://www.w3.org/1999/xhtml" data-design="pill" data-has="right-rail" data-type="research-article" vocab="http://schema.org/" typeof="ScholarlyArticle" lang="en" dir="ltr"><header data-extent="frontmatter"><div class="core-container"><div data-article-access="no" data-article-access-type="other" class="meta-panel"><div class="meta-panel__left-content"><div class="meta-panel__label"><span>Breast Imaging</span></div><div class="meta-panel__onlineDate">May 31 2019</div></div><div class="meta-panel__right-content"><div class="meta-panel__share"></div></div></div><h1 property="name">Three-dimensional Automated Breast US: Facts and Artifacts</h1><div class="contributors"><span class="authors"><span class="heading">Authors</span>: <span role="list"><span property="author" typeof="Person" role="listitem"><a href="#con1"><span property="givenName">Ingolf</span> <span property="familyName">Karst</span>, <span property="honorificSuffix">MD, PhD, MA</span></a> <a href="/cdn-cgi/l/email-protection#4e27252f3c3d3a0e202360213c29" property="email" aria-label="Email address"><span class="__cf_email__" data-cfemail="224b4943505156624c4f0c4d5045">[email&#160;protected]</span></a></span>, <span property="author" typeof="Person" role="listitem"><a href="#con2"><span property="givenName">Christopher</span> <span property="familyName">Henley</span>, <span property="honorificSuffix">MD</span></a></span>, <span property="author" typeof="Person" role="listitem"><a href="#con3"><span property="givenName">Nadine</span> <span property="familyName">Gottschalk</span>, <span property="honorificSuffix">MD</span></a> <a class="orcid-id" href="https://orcid.org/0000-0001-8157-7685" property="identifier" aria-label="ORCID identifier" target="_blank">https://orcid.org/0000-0001-8157-7685</a></span>, <span property="author" typeof="Person" role="listitem"><a href="#con4"><span property="givenName">Sara</span> <span property="familyName">Floyd</span>, <span property="honorificSuffix">MD</span></a></span>, and <span property="author" typeof="Person" role="listitem"><a href="#con5"><span property="givenName">Ellen B.</span> <span property="familyName">Mendelson</span>, <span property="honorificSuffix">MD, MA</span></a></span></span></span><a href="#tab-contributors" class="to-authors-affiliations" data-id="article-authors-viewall">Authors Info &amp; Affiliations</a></div><div class="core-self-citation"><div property="isPartOf" typeof="Periodical"><span class="heading">Publication</span>: <span property="name">RadioGraphics</span></div><div class="core-enumeration"><span property="isPartOf" typeof="PublicationVolume">Volume <span property="volumeNumber">39</span></span><span class="delimiter">, </span><span property="isPartOf" typeof="PublicationIssue">Number <span property="issueNumber">4</span></span></div><div class="doi"><a href="https://doi.org/10.1148/rg.2019180104" property="sameAs">https://doi.org/10.1148/rg.2019180104</a></div></div><div class="info-panel"><div class="info-panel__left-content"><div class="info-panel__metrics info-panel__item"></div></div><div class="info-panel__right-content"><div class="info-panel__article_tools info-panel__item">
+
+
+
+        
+        <div class="article-tools"><a href="/personalize/addFavoritePublication?doi=10.1148%2Frg.2019180104" target="_blank" class="article-tools__favorite btn btn--slim btn--inverse" data-toggle="tooltip" data-trigger="hover" data-original-title="Add to favorites"><i aria-hidden="true" class="icon-add-favorite"></i><span class="sr-only">Add to favorites</span></a><a href="/action/addCitationAlert?doi=10.1148%2Frg.2019180104" target="_blank" class="article-tools__citation btn btn--slim btn--inverse" data-toggle="tooltip" data-trigger="hover" data-original-title="Track Citations"><i aria-hidden="true" class="icon-alert-bell"></i><span class="sr-only">Track Citations</span></a></div>
+</div><div class="info-panel__citations info-panel__item"><a href="#tab-citations" class="btn btn--inverse btn--slim" data-toggle="tooltip" data-original-title="View Citations" aria-label="View Citations"><i aria-hidden="true" class="icon-format_quote"></i></a></div><div class="info-panel__formats info-panel__item"><a href="#core-collateral-purchase-access" class="btn btn--access" data-toggle="tooltip" data-original-title="Go to purchase options" aria-label="Go to purchase options"><i aria-hidden="true" class="icon-lock-open"></i><span class="link-text">Get Access</span></a></div></div></div></div></header><div data-core-nav="header" data-extent="frontmatter"><div class="core-nav-wrapper core-container" aria-label="Article navigation"><div><button aria-controls="article_sections_menu" aria-expanded="false" aria-label="Toggle section navigation menu"><i class="icon-list" aria-hidden="true"></i><span>Contents</span></button><nav id="article_sections_menu" aria-label="Contents" data-core-nav="article"><ul><li><a href="#abstract">Abstract</a></li><li><a href="#core-sec-figures">Figures</a></li><li><a href="#bibliography">References</a></li></ul></nav></div><nav id="article_collateral_menu"><ul class="collateral-pill" data-core-nav="collateral"><li><a href="#core-collateral-info" aria-controls="core-collateral-info" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="Information & Authors" title="Information & Authors" aria-expanded="false"><i aria-hidden="true" class="icon-info"></i><span class="sr-only">Information & Authors</span></a></li><li><a href="#core-collateral-metrics" aria-controls="core-collateral-metrics" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="Metrics & Citations" title="Metrics & Citations" aria-expanded="false"><i aria-hidden="true" class="icon-metrics"></i><span class="sr-only">Metrics & Citations</span></a></li><li><a href="#core-collateral-purchase-access" aria-controls="core-collateral-purchase-access" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="Get Access" title="Get Access" aria-expanded="false"><i aria-hidden="true" class="icon-lock-open"></i><span class="sr-only">Get Access</span></a></li><li><a href="#core-collateral-references" aria-controls="core-collateral-references" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="References" title="References" aria-expanded="false"><i aria-hidden="true" class="icon-references"></i><span class="sr-only">References</span></a></li><li><a href="#core-collateral-figures" aria-controls="core-collateral-figures" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="Figures" title="Figures" aria-expanded="false"><i aria-hidden="true" class="icon-photo"></i><span class="sr-only">Figures</span></a></li><li><a href="#core-collateral-tables" aria-controls="core-collateral-tables" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="Tables" title="Tables" aria-expanded="false"><i aria-hidden="true" class="icon-table"></i><span class="sr-only">Tables</span></a></li><li><a href="#core-collateral-media" aria-controls="core-collateral-media" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="Media" title="Media" aria-expanded="false"><i aria-hidden="true" class="icon-play-circle-filled"></i><span class="sr-only">Media</span></a></li><li><a href="#core-collateral-share" aria-controls="core-collateral-share" aria-disabled="true" disabled="true" data-toggle="tooltip" data-placement="left" data-original-title="Share" title="Share" aria-expanded="false"><i aria-hidden="true" class="icon-share"></i><span class="sr-only">Share</span></a></li></ul></nav></div></div><div data-core-wrapper="content"><div id="abstracts" data-extent="frontmatter"><div class="core-container"><section id="abstract" property="abstract" typeof="Text" role="doc-abstract"><h2 property="name">Abstract</h2><div role="paragraph">As automated breast (AB) US becomes more integrated into the daily practice of breast imaging, the need to address the artifacts that interfere with AB US image interpretation is becoming more important. Learning methods to detect and subsequently resolve artifacts such as shadowing can enhance the reader’s confidence and ability to differentiate artifacts and true abnormalities. Understanding the basic principles of AB US and its image acquisition process are key elements in resolving artifacts. Gaining familiarity with the common patterns of AB US artifacts and placing them into categories of technical, software, physiologic, and breast lesion–related causes can aid in image interpretation. Recognizing specific artifacts, such as dropout and lack of contact, and the ability to distinguish them from true abnormalities, such as surgical scars and suspicious lesions, can help minimize preventable false-positive interpretations. Applying methods to confirm shadowing as artifactual, including the use of a second view, additional planes, and software-related tools such as the rotational tool, can aid the radiologist in resolving artifacts and avoiding preventable recalls, potentially resulting in increased specificity. Presented is a methodical approach to recognizing AB US artifacts and their causes; analyzing shadowing, a challenging entity in the interpretation of AB US imaging studies; differentiating artifact from true abnormality; and reviewing characteristic patterns and basic techniques to resolve artifacts. The goal of this article is to enable the radiologist in applying these methods to help reduce preventable false-positive recommendations and increase efficiency in AB US image interpretation.</div><div role="paragraph"><i><a href="https://pubs.rsna.org/do/10.1148/rg.2019180104.pres/full/">Online supplemental material is available for this article.</a></i></div><div role="paragraph"><sup>©</sup>RSNA, 2019</div></section></div></div><section id="bodymatter" data-extent="bodymatter" property="articleBody" typeof="Text"><div class="core-container"><section aria-labelledby="denial-block-title" class="denial-block "><h2 id="denial-block-title" class="denial-block__title">Get full access to this article</h2><p class="denial-block__text">View all available purchase options and get full access to this article.</p><div class="denial-block__cta"><a href="#core-collateral-purchase-access" class="btn btn--access"><i aria-hidden="true" class="icon-lock-open"></i><span>Get Access</span></a></div><footer class="denial-block__footer"><span>Already a Subscriber? </span><span>Sign in as an </span><a href="/action/showLogin?redirectUri=/doi/10.1148/rg.2019180104">individual</a><span> or via your </span><a href="/action/ssostart?uri=/doi/10.1148/rg.2019180104">institution</a></footer></section></div></section><section id="backmatter" data-extent="backmatter"><div class="core-container"><section id="core-sec-figures" data-type="figures"><h2>Figures</h2><div class="figure-wrap"><figure id="fig1" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig1.jpeg" height="2171" width="2990" aria-labelledby="fig1" loading="lazy" /><figcaption><span class="heading">Figure 1</span>. AB US image acquisition. AB US images are acquired by using a wide high-resolution linear transducer (top), which has a much wider footprint (15.4 cm) than the transducer used for HH US (5.8 cm) (bottom). In the middle, an AB US image is shown with an HH US image (enclosed in rectangle) overlying it. The images show an irregular hypoechoic mass in crosshairs (grade 2 invasive ductal carcinoma with mucin production) with surrounding architectural distortion. Note how much more surrounding tissue is depicted on the AB US image than on the HH US image of the same mass in the same position (arrows). On the upper half of the overlying HH image, opacity is graded as highest on the right to transparent on the left, exposing the underlying AB US image and demonstrating the reproducibility of image findings that is achievable with both techniques.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig1">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig2" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig2.jpeg" height="2438" width="3400" aria-labelledby="fig2" loading="lazy" /><figcaption><span class="heading">Figure 2</span>. Transducer positioning to acquire the views covering the breast tissue at AB US. Three scans of each breast are usually obtained: the AP, LAT, and MED views. Left: Diagrams illustrate the volumes of breast tissue captured in each view, with the AP view overlapping centrally with the LAT and MED views. Middle: Photographs show proper patient positioning and transducer placement for each view. (Adapted and reprinted, with permission, from Siemens Medical Solutions.) Right: Coronal planes demonstrate the coverage of breast tissue in relation to the scanning position. Yellow circles denote the location of the nipple in each view.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig2">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig3" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig3.jpeg" height="1101" width="2690" aria-labelledby="fig3" loading="lazy" /><figcaption><span class="heading">Figure 3</span>. Acquisition of initially obtained transverse (<i>X</i>) image set (left) and reconstruction of the software-generated sagittal (<i>Y</i>) and coronal (<i>Z</i>) planes (right). Images are captured in the transverse orientation (green arrows) by using a wide AB US transducer (top left). After the acquisition, the software reconstructs two additional orthogonal planes in sagittal and coronal directions (blue arrow). The transverse image shows a hypoechoic, oval, circumscribed mass, representing a fibroadenoma, which is also seen on the three-dimensional reconstructed layers. The uppermost sectioned coronal plane appears to be hyperechoic at the superficial level, representing the skin.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig3">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig4" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig4.jpeg" height="1348" width="3400" aria-labelledby="fig4" loading="lazy" /><figcaption><span class="heading">Figure 4</span>. Anatomic correlation of the three displayed AB US planes. The three orthogonal planes (left) are displayed in one of a number of hanging protocols (right). The position in each of the software-reconstructed planes, the sagittal <i>(Y)</i> and coronal <i>(Z)</i> planes, is matched with the position in the originally acquired transverse <i>(X)</i> image set. The hypoechoic circumscribed mass seen in <a href="#fig3">Figure 3</a> is shown here sectioned, in the lower region of the right breast on the coronal image, obtained in an AP view, with the crosshairs switched off. The mass is also seen in focus on the transverse and sagittal images. Additional hypoechoic masses are depicted in this case involving biopsy-proven fibroadenomas. The yellow dot marks the nipple region.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig4">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig5" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig5.jpeg" height="2149" width="3000" aria-labelledby="fig5" loading="lazy" /><figcaption><span class="heading">Figure 5</span>. Correlation of breast tissue levels seen on AB US coronal and sagittal planes with corresponding anatomic diagrams. The tissue layers depicted on AB US coronal planes are sectioned from the superficial to the deep depth, representing the skin <i>(I),</i> subcutaneous fat lobules <i>(II),</i> fibroglandular tissue <i>(III)</i>, and breast lobules <i>(IV).</i> The coronal images correlate with the frontal anatomic diagram (entirely middle) (reprinted, with permission, from reference <a href="#r9" role="doc-biblioref" data-xml-rid="r9">9</a>) that shows the breast lobules sectioned to illustrate the intralobular ducts and stroma. The axial mid-breast diagram (top middle) (reprinted, with permission, from reference <a href="#r9" role="doc-biblioref" data-xml-rid="r9">9</a>) and the sagittal AB US plane (bottom middle) demonstrate the breast tissue from the skin to the chest wall, showing ducts entering the nipple. The nipple and areola are immediately recognizable at the skin in level I (top left). AB US image of level II (bottom left) shows medium-gray fat lobules occupying the subcutaneous layer, with a small amount of echogenic fibroglandular tissue in the outer region of the breast. AB US images of layers III (bottom right) and IV (top right) show predominantly light-gray to white fibroglandular tissue.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig5">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig6" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig6.jpeg" height="2721" width="3800" aria-labelledby="fig6" loading="lazy" /><figcaption><span class="heading">Figure 6</span>. Correlation of Breast Imaging Reporting and Data System (BI-RADS) breast composition patterns with AB US echogenicity distribution patterns. For each category (<i>A, B, C,</i> and <i>D</i>), the echogenicity distribution pattern seen on AB US coronal (bottom row, upper images) and transverse (bottom row, lower images) planes is compared to the correlating composition pattern seen on the mediolateral-oblique mammographic view (top row) of the same breast in the same patient. Fatty <i>(A),</i> scattered fibroglandular <i>(B),</i> heterogeneously dense (at mammography) or heterogeneously echogenic (at AB US) <i>(C),</i> and extremely dense (at mammography) or homogeneously echogenic (at AB US) <i>(D)</i> patterns are seen. In <i>A</i> and <i>B,</i> fat is medium gray, with white connective tissue arcs (Cooper ligaments). In comparison, in <i>C</i> and <i>D,</i> the fibroglandular-to-fat ratio has a greater light-gray–to-white–appearing fibroglandular tissue proportion and darker appearing fat than is seen in <i>A</i> and <i>B.</i><div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig6">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig7" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig7.jpeg" height="1938" width="2700" aria-labelledby="fig7" loading="lazy" /><figcaption><span class="heading">Figure 7</span>. AB US AP view of the left breast of the patient whose right breast is shown in <a href="#fig4">Figure 4</a>. The reconstructed coronal (<i>Z</i>) plane depicts the entire breast of a patient scanned in the supine position, similar to the positioning during breast surgery. The coronal plane of the AP view best displays architectural distortion and multiple benign-appearing masses, as seen in this case of multiple fibroadenomas. Darker areas represent fatty tissue; the lighter regions, fibroglandular tissue; and the yellow circle, the nipple location. The transverse <i>(X)</i> plane sections three fibroadenomas located in the upper region of the breast, as seen on the coronal plane; the most medial of these fibroadenomas is truncated on the sagittal (<i>Y</i>) plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig7">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig8" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig8.jpeg" height="2680" width="3688" aria-labelledby="fig8" loading="lazy" /><figcaption><span class="heading">Figure 8</span>. Scanning technique–related artifacts. Top row: Photograph (middle) shows the patient positioned for a right LAT scan; a sponge wedge elevates the patient’s shoulder for optimal positioning. In a case of suboptimal positioning and poor transducer placement, a 2-cm section of right posterior breast tissue is excluded in this LAT view coronal <i>(Z)</i> plane (right). Center row: When a small area of skin is bypassed during the application of coupling lotion and scanned (middle), trapped air can cause a black hole artifact on the coronal plane (right, upper image), as well as repetitive horizontal lines of ringdown at the skin level with shadowing beneath (right, lower image) on the transverse <i>(X)</i> plane. Bottom row: Proper transducer placement (middle) is important for image quality. On the coronal plane, a skin fold (right), seen as an echogenic curve, projects across the upper region of the breast. Yellow circles mark the nipple region. (Photographs were adapted and reprinted, with permission, from Siemens Medical Solutions.)<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig8">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig9" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig9.jpeg" height="1569" width="2500" aria-labelledby="fig9" loading="lazy" /><figcaption><span class="heading">Figure 9</span>. Nipple artifact. A software algorithm process enhances the retroareolar area (arrows) on AB US transverse <i>(X),</i> sagittal <i>(Y),</i> and coronal <i>(Z)</i> planes. The retroareolar area is typically more difficult to examine owing to intrinsic shadowing from the nipple. The effectiveness of this algorithm depends on the nipple-areolar complex individual anatomic features.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig9">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig10" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig10.jpeg" height="1682" width="2500" aria-labelledby="fig10" loading="lazy" /><figcaption><span class="heading">Figure 10</span>. Silhouette artifact. The silhouette algorithm aims to suppress image information outside of the breast. When recognition of the breast contour is obstructed—for example, by a bandage, as in this case—the tissue in this region is replaced by a blackened geometric area (arrows), as shown on AB US transverse <i>(X),</i> sagittal <i>(Y),</i> and coronal <i>(Z)</i> planes.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig10">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig11" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig11.jpeg" height="1599" width="2500" aria-labelledby="fig11" loading="lazy" /><figcaption><span class="heading">Figure 11</span>. Cardiac artifact. Left AB US AP coronal <i>(Z)</i> and sagittal <i>(Y)</i> planes show a cluster of straight lines (arrows) in the cardiac area, which are conspicuous at the posterior aspect of the breast in the mediastinal space. This artifact can occur with tachycardia. <i>X</i> = transverse plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig11">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig12" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig12.jpeg" height="1525" width="2500" aria-labelledby="fig12" loading="lazy" /><figcaption><span class="heading">Figure 12</span>. Motion artifact. Multiple straight lines, which are seen predominantly on the coronal <i>(Z)</i> and sagittal <i>(Y)</i> planes, can be caused by patient motion, such as talking or hyperventilating, during scanning. Thus, patients are asked not to talk, cough, or laugh during the AB US transducer movement. Arrows point to multiple vertical (on sagittal plane) and horizontal (on coronal plane) lines spanning the entire image depth. <i>X</i> = transverse plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig12">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig13" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig13.jpeg" height="1606" width="2500" aria-labelledby="fig13" loading="lazy" /><figcaption><span class="heading">Figure 13</span>. Skip artifact caused by a fibroadenoma. The transducer compresses and then skips over a firm lesion, causing a linear artifact (arrows), which is best seen on coronal <i>(Z)</i> and sagittal <i>(Y)</i> planes. <i>X</i> = transverse plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig13">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig14" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig14.jpeg" height="1719" width="2500" aria-labelledby="fig14" loading="lazy" /><figcaption><span class="heading">Figure 14</span>. Intense enhancement is seen as a round highly echogenic area (red arrow) on the coronal <i>(Z)</i> plane and as an echogenic column (white arrow) posterior to a simple cyst on the transverse <i>(X)</i> and sagittal <i>(Y)</i> planes.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig14">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig15" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig15.jpeg" height="1873" width="2100" aria-labelledby="fig15" loading="lazy" /><figcaption><span class="heading">Figure 15</span>. Architectural distortion around a surgical scar, with the typical radiating spiculated appearance (arrow), similar to that at digital breast tomosynthesis, on the coronal <i>(Z)</i> plane, and a visible surgical pathway (arrowhead) leading to the focally thickened skin on the transverse <i>(X)</i> plane. <i>Y</i> = sagittal plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig15">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig16" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig16.jpeg" height="2296" width="3200" aria-labelledby="fig16" loading="lazy" /><figcaption><span class="heading">Figure 16</span>. Shadowing artifact and true abnormality. Top: Architectural distortion surrounding a surgical scar, with a surgical pathway to the skin. Linear or curvilinear shadowing originating at the skin is characteristic of a surgical scar. Middle: Ringdown artifact at the skin level with shadowing beneath indicates a lack of contact and air, which is caused by the absence of coupling lotion. Bottom: A hypoechoic mass and surrounding architectural distortion within the fibroglandular zone of tissue, with posterior shadowing emanating from the mass, represents an invasive lobular carcinoma <i>(ILC).</i><div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig16">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig17" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig17.jpeg" height="1891" width="2500" aria-labelledby="fig17" loading="lazy" /><figcaption><span class="heading">Figure 17</span>. Peripheral shadowing on right MED view, with crosshairs placed at the 11-o’clock position, 3 cm from the nipple <i>(FN)</i> (yellow circle). Peripheral shadowing appears as an irregular hypoechoic area on the coronal <i>(Z)</i> plane, which correlates with regions of shadowing on the transverse <i>(X)</i> and sagittal <i>(Y)</i> planes.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig17">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig18" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig18.jpeg" height="1871" width="2500" aria-labelledby="fig18" loading="lazy" /><figcaption><span class="heading">Figure 18</span>. Right AP view used as a second view of the same breast, with coordinates in approximately the same location (11 o’clock, 3 cm from the nipple <i>[FN]</i> [yellow circle]), as in <a href="#fig17">Figure 17</a>. Normal fibroglandular breast tissue occupies this area, resolving the shadowing seen on the MED view (in <a href="#fig17">Fig 17</a>) as artifactual. A small cyst seen directly medial to this location on the coronal <i>(Z)</i> plane is also identifiable on the coronal and transverse <i>(X)</i> planes in <a href="#fig17">Figure 17</a>. Another hypoechoic-to-anechoic area is seen at approximately the 9-o’clock position, lateral to the nipple, on the coronal plane. This finding can be elucidated by using the same method used to resolve the area at the 11-o’clock location, by using the LAT view as the second view, to confirm this area as normal breast tissue. <i>Y</i> = sagittal plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig18">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig19" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig19.jpeg" height="1675" width="1500" aria-labelledby="fig19" loading="lazy" /><figcaption><span class="heading">Figure 19</span>. Peripheral irregularly shaped area of low echogenicity in crosshairs on the coronal <i>(Z)</i> plane on a left MED view at the 10-o’clock position, 9 cm from the nipple <i>(FN)</i> (yellow circle).<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig19">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig20" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig20.jpeg" height="1663" width="1800" aria-labelledby="fig20" loading="lazy" /><figcaption><span class="heading">Figure 20</span>. The location of the area within the crosshairs on the acquired transverse <i>(X)</i> plane and reconstructed sagittal <i>(Y)</i> plane is correlated by the software with the location of the area in focus on the coronal plane in <a href="#fig19">Figure 19</a> to identify and further analyze the same region. The magnified area of shadowing on the transverse plane (within the rectangular outline) shows several short, parallel, alternating hyperechoic and anechoic horizontal lines at the skin level, indicating ringdown with shadowing posteriorly.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig20">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig21" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig21.jpeg" height="1508" width="2500" aria-labelledby="fig21" loading="lazy" /><figcaption><span class="heading">Figure 21</span>. Hypoechoic oval area, demarcated by crosshairs, in the lower central region of the breast on the coronal <i>(Z)</i> plane. Correlating crosshairs mark an amorphous area of shadowing on the transverse <i>(X)</i> plane that shows linear shadowing on the sagittal <i>(Y)</i> plane. Yellow circle marks the nipple region.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig21">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig22" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig22.jpeg" height="887" width="880" aria-labelledby="fig22" loading="lazy" /><figcaption><span class="heading">Figure 22</span>. Software-simulated rotation. The region highlighted in <a href="#fig21">Figure 21</a> is in focus here. The area of shadowing changes in morphology with respect to the superficial fibroglandular tissue when the rotational feature is utilized to simulate rotation around the vertical axis (top). No discrete mass comes into focus. <i>X</i> = transverse plane, <i>Y</i> = sagittal plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig22">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig23" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig23.jpeg" height="1839" width="1800" aria-labelledby="fig23" loading="lazy" /><figcaption><span class="heading">Figure 23</span>. Software-simulated tilting. In addition to simulating rotating, simulating changing the insonation plane angle around the horizontal axis, equivalent to tilting an HH probe, enables evaluation of the area surrounding the shadowing (top). The result is the same as that of rotating around the vertical axis, as seen in <a href="#fig22">Figure 22</a>; no discrete mass comes into focus. <i>X</i> = transverse plane, <i>Y</i> = sagittal plane.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig23">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig24" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig24.jpeg" height="2026" width="2700" aria-labelledby="fig24" loading="lazy" /><figcaption><span class="heading">Figure 24</span>. Refraction shadowing. Crosshairs have been placed on an area of architectural distortion in question on this reconstructed coronal <i>(Z)</i> plane on a right AP view at the 9-o’clock position, 3 cm from the nipple <i>(FN)</i> (yellow circle). Note that the selected area corresponds to a thin linear shadow on the transverse <i>(X)</i> and sagittal <i>(Y)</i> planes.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig24">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig25" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig25.jpeg" height="1286" width="1800" aria-labelledby="fig25" loading="lazy" /><figcaption><span class="heading">Figure 25</span>. Refraction shadowing. The sagittal plane in <a href="#fig24">Figure 24</a> is magnified here, with the linear shadows seen originating at the edges of fat lobules and other curved surfaces as they intersect with tissue. Periodic repetition of these thin refractive shadows (arrows) is seen.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig25">Download as PowerPoint</a></li></ul></div></figcaption></figure></div><div class="figure-wrap"><figure id="fig26" class="graphic"><img src="/cms/10.1148/rg.2019180104/asset/images/large/rg.2019180104.fig26.jpeg" height="1840" width="2300" aria-labelledby="fig26" loading="lazy" /><figcaption><span class="heading">Figure 26</span>. Shadowing caused by a malignant mass. The shape of the mass is identifiable in all three (transverse <i>[X],</i> sagittal <i>[Y],</i> and coronal <i>[Z])</i> planes. The example shown here illustrates the difference in appearance between shadowing associated with malignancy (in this case, invasive lobular carcinoma <i>[ILC]</i>) and shadowing originating from refraction, as seen in <a href="#fig24">Figures 24</a> and <a href="#fig25">25</a>. AB US images show a single shadow (arrow) originating from the mass itself, rather than from the edges of the mass (as with refraction). The US beam is attenuated during its passage through the carcinoma, causing the shadowing. Similar to the multiple artifactual edge shadows seen in <a href="#fig25">Figure 25</a>, the shadowing seen here is the most conspicuous on the sagittal plane. Yellow circle marks the nipple region. <i>FN</i> = from the nipple, <i>SUP</i> = superior.<div class="core-figure-tools"><ul><li><a class="core-figure-download-powerpoint" href="/action/downloadFigures?doi=10.1148%2Frg.2019180104&amp;id=fig26">Download as PowerPoint</a></li></ul></div></figcaption></figure></div></section><section id="bibliography" role="doc-bibliography"><h2>References</h2><div role="list"><div role="listitem" data-has="label"><div class="label">1.</div><div id="r1" class="citations"><div class="citation"><div class="citation-content">Dempsey PJ. The history of breast ultrasound. <em>J Ultrasound Med</em> 2004;23(7):887–894.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.7863/jum.2004.23.7.887">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/15292555/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=The+history+of+breast+ultrasound&amp;author=PJ+Dempsey&amp;publication_year=2004&amp;journal=J+Ultrasound+Med&amp;pages=887-894&amp;doi=10.7863%2Fjum.2004.23.7.887&amp;pmid=15292555">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">2.</div><div id="r2" class="citations"><div class="citation"><div class="citation-content">Gold RH, Bassett LW, Widoff BE. Highlights from the history of mammography. <em>RadioGraphics</em> 1990;10(6):1111–1131.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1148/radiographics.10.6.2259767">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/2259767/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Highlights+from+the+history+of+mammography&amp;author=RH+Gold&amp;author=LW+Bassett&amp;author=BE+Widoff&amp;publication_year=1990&amp;journal=RadioGraphics&amp;pages=1111-1131&amp;doi=10.1148%2Fradiographics.10.6.2259767&amp;pmid=2259767">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">3.</div><div id="r3" class="citations"><div class="citation"><div class="citation-content">Vourtsis A, Kachulis A. The performance of 3D ABUS versus HHUS in the visualisation and BI-RADS characterisation of breast lesions in a large cohort of 1,886 women. <em>Eur Radiol</em> 2018;28(2):592–601.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1007/s00330-017-5011-9">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/28828640/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=The+performance+of+3D+ABUS+versus+HHUS+in+the+visualisation+and+BI-RADS+characterisation+of+breast+lesions+in+a+large+cohort+of+1%2C886+women&amp;author=A+Vourtsis&amp;author=A+Kachulis&amp;publication_year=2018&amp;journal=Eur+Radiol&amp;pages=592-601&amp;doi=10.1007%2Fs00330-017-5011-9&amp;pmid=28828640">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">4.</div><div id="r4" class="citations"><div class="citation"><div class="citation-content">Wojcinski S, Farrokh A, Hille U, et al. The automated breast volume scanner (ABVS): initial experiences in lesion detection compared with conventional handheld B-mode ultrasound—a pilot study of 50 cases. <em>Int J Womens Health</em> 2011;3:337–346.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.2147/IJWH.S23918">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/22114526/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=The+automated+breast+volume+scanner+%28ABVS%29%3A+initial+experiences+in+lesion+detection+compared+with+conventional+handheld+B-mode+ultrasound%E2%80%94a+pilot+study+of+50+cases&amp;author=S+Wojcinski&amp;author=A+Farrokh&amp;author=U+Hille&amp;publication_year=2011&amp;journal=Int+J+Womens+Health&amp;pages=337-346&amp;doi=10.2147%2FIJWH.S23918&amp;pmid=22114526">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">5.</div><div id="r5" class="citations"><div class="citation"><div class="citation-content">Maturo VG, Zusmer NR, Gilson AJ, et al. Ultrasound of the whole breast utilizing a dedicated automated breast scanner. <em>Radiology</em> 1980;137(2):457–463.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1148/radiology.137.2.6254110">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/6254110/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Ultrasound+of+the+whole+breast+utilizing+a+dedicated+automated+breast+scanner&amp;author=VG+Maturo&amp;author=NR+Zusmer&amp;author=AJ+Gilson&amp;publication_year=1980&amp;journal=Radiology&amp;pages=457-463&amp;doi=10.1148%2Fradiology.137.2.6254110&amp;pmid=6254110">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">6.</div><div id="r6" class="citations"><div class="citation"><div class="citation-content">Feldman MK, Katyal S, Blackwood MS. US artifacts. <em>RadioGraphics</em> 2009;29(4):1179–1189.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1148/rg.294085199">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/19605664/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=US+artifacts&amp;author=MK+Feldman&amp;author=S+Katyal&amp;author=MS+Blackwood&amp;publication_year=2009&amp;journal=RadioGraphics&amp;pages=1179-1189&amp;doi=10.1148%2Frg.294085199&amp;pmid=19605664">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">7.</div><div id="r7" class="citations"><div class="citation"><div class="citation-content">Baad M, Lu ZF, Reiser I, Paushter D. Clinical significance of US artifacts. <em>RadioGraphics</em> 2017;37(5):1408–1423.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1148/rg.2017160175">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/28777700/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Clinical+significance+of+US+artifacts&amp;author=M+Baad&amp;author=ZF+Lu&amp;author=I+Reiser&amp;author=D+Paushter&amp;publication_year=2017&amp;journal=RadioGraphics&amp;pages=1408-1423&amp;doi=10.1148%2Frg.2017160175&amp;pmid=28777700">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">8.</div><div id="r8" class="citations"><div class="citation"><div class="citation-content">Schwaab J, Diez Y, Oliver A, et al. Automated quality assessment in three-dimensional breast ultrasound images. <em>J Med Imaging (Bellingham)</em> 2016;3(2):027002.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1117/1.JMI.3.2.027002">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/27158633/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Automated+quality+assessment+in+three-dimensional+breast+ultrasound+images&amp;author=J+Schwaab&amp;author=Y+Diez&amp;author=A+Oliver&amp;publication_year=2016&amp;journal=J+Med+Imaging+%28Bellingham%29&amp;pages=027002&amp;doi=10.1117%2F1.JMI.3.2.027002&amp;pmid=27158633">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">9.</div><div id="r9" class="citations"><div class="citation"><div class="citation-content">D’Orsi CJ, Sickles EA, Mendelson EB, Morris EA. ACR BI-RADS ultrasound, coronal and axial diagrams of breast anatomy. 5th ed. Reston, Va: American College of Radiology, 2013; 13.</div><div class="external-links"><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=ACR+BI-RADS+ultrasound%2C+coronal+and+axial+diagrams+of+breast+anatomy&amp;author=CJ+D%E2%80%99Orsi&amp;author=EA+Sickles&amp;author=EB+Mendelson&amp;author=EA+Morris&amp;publication_year=2013">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">10.</div><div id="r10" class="citations"><div class="citation"><div class="citation-content">Giger ML, Inciardi MF, Edwards A, et al. Automated breast ultrasound in breast cancer screening of women with dense breasts: reader study of mammography-negative and mammography-positive cancers. <em>AJR Am J Roentgenol</em> 2016;206(6):1341–1350.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.2214/AJR.15.15367">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/27043979/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Automated+breast+ultrasound+in+breast+cancer+screening+of+women+with+dense+breasts%3A+reader+study+of+mammography-negative+and+mammography-positive+cancers&amp;author=ML+Giger&amp;author=MF+Inciardi&amp;author=A+Edwards&amp;publication_year=2016&amp;journal=AJR+Am+J+Roentgenol&amp;pages=1341-1350&amp;doi=10.2214%2FAJR.15.15367&amp;pmid=27043979">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">11.</div><div id="r11" class="citations"><div class="citation"><div class="citation-content">D’Orsi CJ, Sickles EA, Mendelson EB, Morris EA. <em>ACR BI-RADS atlas: breast imaging reporting and data system</em>. 5th ed. Reston, Va: American College of Radiology, 2013.</div><div class="external-links"><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=ACR+BI-RADS+atlas%3A+breast+imaging+reporting+and+data+system&amp;author=CJ+D%E2%80%99Orsi&amp;author=EA+Sickles&amp;author=EB+Mendelson&amp;author=EA+Morris&amp;publication_year=2013">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">12.</div><div id="r12" class="citations"><div class="citation"><div class="citation-content">Wilczek B, Wilczek HE, Rasouliyan L, Leifland K. Adding 3D automated breast ultrasound to mammography screening in women with heterogeneously and extremely dense breasts: report from a hospital-based, high-volume, single-center breast cancer screening program. <em>Eur J Radiol</em> 2016;85(9):1554–1563.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1016/j.ejrad.2016.06.004">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/27501888/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Adding+3D+automated+breast+ultrasound+to+mammography+screening+in+women+with+heterogeneously+and+extremely+dense+breasts%3A+report+from+a+hospital-based%2C+high-volume%2C+single-center+breast+cancer+screening+program&amp;author=B+Wilczek&amp;author=HE+Wilczek&amp;author=L+Rasouliyan&amp;author=K+Leifland&amp;publication_year=2016&amp;journal=Eur+J+Radiol&amp;pages=1554-1563&amp;doi=10.1016%2Fj.ejrad.2016.06.004&amp;pmid=27501888">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">13.</div><div id="r13" class="citations"><div class="citation"><div class="citation-content">Leung JW, Sickles EA. Multiple bilateral masses detected on screening mammography: assessment of need for recall imaging. <em>AJR Am J Roentgenol</em> 2000;175(1):23–29.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.2214/ajr.175.1.1750023">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/10882241/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Multiple+bilateral+masses+detected+on+screening+mammography%3A+assessment+of+need+for+recall+imaging&amp;author=JW+Leung&amp;author=EA+Sickles&amp;publication_year=2000&amp;journal=AJR+Am+J+Roentgenol&amp;pages=23-29&amp;doi=10.2214%2Fajr.175.1.1750023&amp;pmid=10882241">Google Scholar</a></div></div></div></div></div><div role="listitem" data-has="label"><div class="label">14.</div><div id="r14" class="citations"><div class="citation"><div class="citation-content">Berg WA, Zhang Z, Cormack JB, Mendelson EB. Multiple bilateral circumscribed masses at screening breast US: consider annual follow-up. <em>Radiology</em> 2013;268(3):673–683.</div><div class="external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1148/radiol.13122251">Crossref</a></div><div class="core-xlink-pubmed"><a href="https://pubmed.ncbi.nlm.nih.gov/23616634/">PubMed</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Multiple+bilateral+circumscribed+masses+at+screening+breast+US%3A+consider+annual+follow-up&amp;author=WA+Berg&amp;author=Z+Zhang&amp;author=JB+Cormack&amp;author=EB+Mendelson&amp;publication_year=2013&amp;journal=Radiology&amp;pages=673-683&amp;doi=10.1148%2Fradiol.13122251&amp;pmid=23616634">Google Scholar</a></div></div></div></div></div></div></section></div></section></div><div class="core-collateral" role="dialog" aria-modal="true"><div id="core-collateral-info" data-active-pane="false"><header><h2><i class="icon-info" aria-hidden="true"></i>Information &amp; Authors</h2></header><section id="tab-information" role="tabpanel"><h3>Information</h3><section class="core-self-citation"><h4>Published In</h4><div class="core-journal-presentation">
+
+
+
+        
+        <div class="cover-image flat d-flex justify-content-center flex-column"><div data-is-viewable="" class="cover-image__image"><a href="/toc/radiographics/39/4" title="Go to RadioGraphics " class="d-block"><img src="/cms/10.1148/rg.2019.39.issue-4/asset/16bd281d-a716-d281-3a71-bd281d3a716b/rg.2019.39.issue-4.cover.jpg" alt="Go to RadioGraphics " loading="lazy"/></a></div></div>
+<div class="core-journal-description"><div property="isPartOf" typeof="Periodical"><span property="name">RadioGraphics</span></div><div class="core-enumeration"><span property="isPartOf" typeof="PublicationVolume">Volume <span property="volumeNumber">39</span></span> • <span property="isPartOf" typeof="PublicationIssue">Number <span property="issueNumber">4</span></span> • <span property="datePublished">Jul 1 2019</span></div><div class="core-pagination"><span class="heading">Pages</span>: <span class="content"><span property="pageStart">913</span> - <span property="pageEnd">931</span></span></div><div class="core-pmid"><span class="heading">PubMed</span>: <a class="content" href="https://pubmed.ncbi.nlm.nih.gov/31150298/" property="sameAs" target="_blank" title="Link to PubMed">31150298</a></div></div></div></section><div class="core-do-article"><a href="/doi/full/10.1148/rg.2019180104.pres"><i class="icon-do-display"></i><span>Slide Presentation</span></a></div><div class="core-do-article"><a href="/doi/full/10.1148/rg.39.4.1.podcast"><i class="icon-do-mic"></i><span>Podcast</span></a></div><section class="core-abbreviations"><h4>Abbreviations</h4><div role="doc-footnote"><div id="gloss1" role="paragraph"><dl><div><dt id="G1">AB</dt><dd>automated breast</dd></div><div><dt id="G2">AP</dt><dd>anterior-posterior</dd></div><div><dt id="G3">HH</dt><dd>handheld</dd></div><div><dt id="G4">LAT</dt><dd>lateral</dd></div><div><dt id="G5">MED</dt><dd>medial</dd></div></dl></div></div></section><section class="core-copyright"><h4>Copyright</h4><div role="paragraph">2019 by the Radiological Society of North America, Inc.</div></section><section class="core-history"><h4>History</h4><div><b class="core-label">Received</b>: Mar 21 2018</div><div><b class="core-label">Revision requested</b>: Jun 13 2018</div><div><b class="core-label">Revision received</b>: Aug 27 2018</div><div><b class="core-label">Accepted</b>: Aug 30 2018</div><div><b class="core-label">Published online</b>: May 31 2019</div></section><section class="core-permissions"><h4>Permissions</h4><div>Request permissions for this article.</div><div><a class="btn" href="https://marketplace.copyright.com/rs-ui-web/mp/search/all/10.1148%2Frg.2019180104">Request Permissions</a></div></section></section><section id="tab-contributors" role="tabpanel"><h3>Authors</h3><section class="core-authors"><h4>Affiliations</h4><div id="con1" property="author" typeof="Person"><div class="heading"><span property="givenName">Ingolf</span> <span property="familyName">Karst</span>, <span property="honorificSuffix">MD, PhD, MA</span> <a href="/cdn-cgi/l/email-protection#96fffdf7e4e5e2d6f8fbb8f9e4f1" property="email" aria-label="Email address"><span class="__cf_email__" data-cfemail="690002081b1a1d29070447061b0e">[email&#160;protected]</span></a></div><div class="content"><div class="affiliations"><div property="affiliation" typeof="Organization"><span property="name">From the Department of Breast Imaging, Northwestern Memorial Hospital, 250 E Superior St, Suite 4-2304, Chicago, IL 60611 (I.K.); and Department of Radiology, Northwestern University Feinberg School of Medicine, Chicago, Ill (C.H., N.G., S.F., E.B.M.).</span></div></div><div class="core-author-link"><a href="/authored-by/Karst/Ingolf" rel="nofollow">View all articles by this author</a></div></div></div><div id="con2" property="author" typeof="Person"><div class="heading"><span property="givenName">Christopher</span> <span property="familyName">Henley</span>, <span property="honorificSuffix">MD</span></div><div class="content"><div class="affiliations"><div property="affiliation" typeof="Organization"><span property="name">From the Department of Breast Imaging, Northwestern Memorial Hospital, 250 E Superior St, Suite 4-2304, Chicago, IL 60611 (I.K.); and Department of Radiology, Northwestern University Feinberg School of Medicine, Chicago, Ill (C.H., N.G., S.F., E.B.M.).</span></div></div><div class="core-author-link"><a href="/authored-by/Henley/Christopher" rel="nofollow">View all articles by this author</a></div></div></div><div id="con3" property="author" typeof="Person"><div class="heading"><span property="givenName">Nadine</span> <span property="familyName">Gottschalk</span>, <span property="honorificSuffix">MD</span> <a class="orcid-id" href="https://orcid.org/0000-0001-8157-7685" property="identifier" aria-label="ORCID identifier" target="_blank">https://orcid.org/0000-0001-8157-7685</a></div><div class="content"><div class="affiliations"><div property="affiliation" typeof="Organization"><span property="name">From the Department of Breast Imaging, Northwestern Memorial Hospital, 250 E Superior St, Suite 4-2304, Chicago, IL 60611 (I.K.); and Department of Radiology, Northwestern University Feinberg School of Medicine, Chicago, Ill (C.H., N.G., S.F., E.B.M.).</span></div></div><div class="core-author-link"><a href="/authored-by/Gottschalk/Nadine" rel="nofollow">View all articles by this author</a></div></div></div><div id="con4" property="author" typeof="Person"><div class="heading"><span property="givenName">Sara</span> <span property="familyName">Floyd</span>, <span property="honorificSuffix">MD</span></div><div class="content"><div class="affiliations"><div property="affiliation" typeof="Organization"><span property="name">From the Department of Breast Imaging, Northwestern Memorial Hospital, 250 E Superior St, Suite 4-2304, Chicago, IL 60611 (I.K.); and Department of Radiology, Northwestern University Feinberg School of Medicine, Chicago, Ill (C.H., N.G., S.F., E.B.M.).</span></div></div><div class="core-author-link"><a href="/authored-by/Floyd/Sara" rel="nofollow">View all articles by this author</a></div></div></div><div id="con5" property="author" typeof="Person"><div class="heading"><span property="givenName">Ellen B.</span> <span property="familyName">Mendelson</span>, <span property="honorificSuffix">MD, MA</span></div><div class="content"><div class="affiliations"><div property="affiliation" typeof="Organization"><span property="name">From the Department of Breast Imaging, Northwestern Memorial Hospital, 250 E Superior St, Suite 4-2304, Chicago, IL 60611 (I.K.); and Department of Radiology, Northwestern University Feinberg School of Medicine, Chicago, Ill (C.H., N.G., S.F., E.B.M.).</span></div></div><div class="core-author-link"><a href="/authored-by/Mendelson/Ellen+B" rel="nofollow">View all articles by this author</a></div></div></div></section><section class="core-authors-notes"><h4>Notes</h4><div role="doc-footnote"><b>Address correspondence to</b> I.K. (e-mail: <i><a href="/cdn-cgi/l/email-protection#563f3d3724252216383b78392431"><span class="__cf_email__" data-cfemail="2b42404a59585f6b45460544594c">[email&#160;protected]</span></a></i>).</div></section><section class="core-conflict"><h4>Disclosures of Conflicts of Interest.—</h4><div role="paragraph"><b>I.K.</b> <i>Activities related to the present article:</i> disclosed no relevant relationships. <i>Activities not related to the present article:</i> travel and teaching expenses from Siemens Healthineers for physician training workshop at the 2017 European Society of Breast Imaging. <i>Other activities:</i> disclosed no relevant relationships. <b>C.H.</b> <i>Activities related to the present article:</i> disclosed no relevant relationships. <i>Activities not related to the present article:</i> expenses for peer-to-peer training in automated US image interpretation from Siemens Healthineers. <i>Other activities:</i> disclosed no relevant relationships. <b>E.B.M.</b> <i>Activities related to the present article:</i> disclosed no relevant relationships. <i>Activities not related to the present article:</i> paid noncorporate member of medical advisory boards of Delphinus and Seno; paid consultant and speaker for Siemens Healthineers. <i>Other activities:</i> disclosed no relevant relationships.</div></section></section></div><div id="core-collateral-metrics" data-active-pane="false"><header><h2><i class="icon-timeline" aria-hidden="true"></i>Metrics &amp; Citations</h2></header><section id="tab-metrics-inner" role="tabpanel"><h3>Metrics</h3><section>
+
+
+
+        
+            <h4 class="">
+                Article Usage
+            </h4>
+        
+        
+
+
+
+
+
+
+
+        
+                <div class="sidebar-metric-container data-source" data-source="/pb/widgets/fullSideBarMetric/getResponse?widgetId=0870736a-bf89-4494-8c73-b201d0af9eb4&pbContext=%3Bjournal%3Ajournal%3Aradiographics%3Bpage%3Astring%3AArticle%2FChapter+View%3Bctype%3Astring%3AJournal+Content%3BsubPage%3Astring%3AAbstract%3BrequestedJournal%3Ajournal%3Aradiographics%3Bwebsite%3Awebsite%3Arsna-site%3Bissue%3Aissue%3A10.1148%2Frg.2019.39.issue-4%3Bwgroup%3Astring%3ARSNA+Publication+Websites%3BpageGroup%3Astring%3APublication+Pages%3Barticle%3Aarticle%3A10.1148%2Frg.2019180104&doi=10.1148%2Frg.2019180104"></div>
+        
+        
+
+</section><section>
+
+
+
+        
+            <h4 class="">
+                Altmetrics
+            </h4>
+        
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://embed.altmetric.com/assets/embed.js" nonce="9f8091b21c66f7bc-ATL"></script>
+
+<div class="altmetric-embed" data-badge-type="large-donut" data-badge-details="true" data-hide-no-mentions="true" data-doi="10.1148/rg.2019180104"></div>
+</section></section><section id="tab-citations" role="tabpanel"><h3>Citations</h3><section>
+
+
+
+        
+        <div class="pill__item">
+<h4 class="">Export citation</h4>
+<p>Select the format you want to export the citation of this publication.</p>
+<form action="/action/downloadCitation" name="frmCitmgr" class="citation-form" method="post" target="_self"><input type="hidden" name="doi" value="10.1148/rg.2019180104"><input type="hidden" name="downloadFileName" value="rsna_radiographics39_913"><input type="hidden" name="include" value="abs"><fieldset class="format-select">
+<div class="select-container"><select id="slct_format" name="format" class="js__slcInclude" style="padding: 7px; color: #595959; border: 1px solid #7f7f7f;">
+<option value="" selected="selected">Please select one from the list</option>
+<option value="ris">RIS (ProCite, Reference Manager)</option>
+<option value="endnote">EndNote</option>
+<option value="bibtex">BibTex</option>
+<option value="medlars">Medlars</option>
+<option value="refworks">RefWorks</option>
+</select></div>
+<label class="label-direct" for="direct"> <input id="direct" type="checkbox" name="direct" value="" checked="checked" style="margin-top: 5px; margin-right: 7px;"> <span class="round-check"><span class="check"></span></span>&nbsp;Direct Import </label></fieldset><footer class="form-footer"><input onclick="onCitMgrSubmit()" class="btn btn-outline-dark btn-sm collapsed text-no-transform" type="submit" name="submit" value="EXPORT CITATION"></footer></form></div>
+</section><section>
+
+
+
+        
+        <div class="pill__item"><h4>Cited by</h4><div class="citations"><div class="citedBySection"><ul class="rlist temis-related__list"><li class="citedByEntry" data-doi="10.2214/AJR.24.31830"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.2214/AJR.24.31830">Automated Breast Ultrasound With Remote Reading for Primary Breast Cancer Screening: A Prospective Study Involving 46 Community Health Centers in China</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Xiaozhi Dang</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Yi Gao</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Yan Ju</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Xiaojie Yuan</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Huan Lin</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Yi Ren</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Yao Xiao</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Rui Shu</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Xiang Gu</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Woo Kyung Moon</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Hongping Song</span></li></ul></div><div class="meta">29 January 2025 | American Journal of Roentgenology, Vol. 39</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.2214/AJR.24.31830">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.5114/pjr/199755"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.5114/pjr/199755">Comparative analysis of diagnostic performance of automatic breast ultrasound and spectral mammography as complementary methods to mammography examination</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Marta Pawlak</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Wojciech Rudnicki</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Tadeusz Popiela</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Lukasz Brandt</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Malgorzata Dobrowolska</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Milena Lipinska</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Elżbieta Łuczyńska</span></li></ul></div><div class="meta">3 February 2025 | Polish Journal of Radiology, Vol. 90</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.5114/pjr/199755">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.2214/AJR.23.30645"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.2214/AJR.23.30645">Artificial Intelligence for Breast Ultrasound:
+              AJR
+              Expert Panel Narrative Review</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Manisha Bahl</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Jung Min Chang</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Lisa A. Mullen</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Wendie A. Berg</span></li></ul></div><div class="meta">2024Dec1 | American Journal of Roentgenology, Vol. 223, No. 6</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.2214/AJR.23.30645">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.61622/rbgo/2024AO15"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.61622/rbgo/2024AO15">Comparison of medical image interpretation time between conventional and automated methods of breast ultrasound</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Katyane Larissa Alves</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Ruffo Freitas</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Régis Resende Paulinelli</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Marcus Nascimento Borges</span></li></ul></div><div class="meta">2024Mar14 | Revista Brasileira de Ginecologia e Obstetrícia / RBGO Gynecology and Obstetrics, Vol. 46</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.61622/rbgo/2024AO15">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.1038/s41598-023-41424-7"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.1038/s41598-023-41424-7">Cost-effective, portable, patient-dedicated three-dimensional automated breast ultrasound for point-of-care breast cancer screening</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Claire Keun Sun Park</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Tiana Trumpour</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Amal Aziz</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Jeffrey Scott Bax</span><span>, </span></li><li><span class="hlFld-ContribAuthor">David Tessier</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Lori Gardi</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Aaron Fenster</span></li></ul></div><div class="meta">1 September 2023 | Scientific Reports, Vol. 13, No. 1</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1038/s41598-023-41424-7">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.3390/biomedicines11123226"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.3390/biomedicines11123226">Comparative Analysis of Diagnostic Performance of Automatic Breast Ultrasound, Full-Field Digital Mammography and Contrast-Enhanced Mammography in Relation to Breast Composition</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Marta Ewa Pawlak</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Wojciech Rudnicki</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Anna Borkowska</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Karolina Skubisz</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Rafał Rydzyk</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Elżbieta Łuczyńska</span></li></ul></div><div class="meta">6 December 2023 | Biomedicines, Vol. 11, No. 12</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.3390/biomedicines11123226">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.1148/rg.230023"><div class="related"><div class="related__title"><a target="_self" href="/doi/full/10.1148/rg.230023">Pearls and Pitfalls of Interpretation of Automated Breast                     US</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Ashley I. Huppe</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Marc F. Inciardi</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Allison M. Aripoli</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Jessica K. Peterson</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Camron B. Smith</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Onalisa D. Winblad</span></li></ul></div><div class="meta">4 October 2023 | RadioGraphics, Vol. 43, No. 10</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="/doi/full/10.1148/rg.230023">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.3389/fpubh.2022.1071317"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.3389/fpubh.2022.1071317">Development of a breast cancer screening protocol to use automated breast ultrasound in a local setting</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Judit Tittmann</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Marcell Csanádi</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Tamás Ágh</span><span>, </span></li><li><span class="hlFld-ContribAuthor">György Széles</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Zoltán Vokó</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Árpád Kallai</span></li></ul></div><div class="meta">4 January 2023 | Frontiers in Public Health, Vol. 10</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.3389/fpubh.2022.1071317">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.3389/pore.2022.1610382"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.3389/pore.2022.1610382">Use of Diagnostic Imaging Modalities in Modern Screening, Diagnostics and Management of Breast Tumours 1st Central-Eastern European Professional Consensus Statement on Breast Cancer</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Gábor Forrai</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Eszter Kovács</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Éva Ambrózay</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Miklós Barta</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Katalin Borbély</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Zsolt Lengyel</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Katalin Ormándi</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Zoltán Péntek</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Tasnádi Tünde</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Éva Sebő</span></li></ul></div><div class="meta">8 June 2022 | Pathology and Oncology Research, Vol. 28</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.3389/pore.2022.1610382">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.1002/mp.15632"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.1002/mp.15632">Spatially tracked whole‐breast three‐dimensional ultrasound system toward point‐of‐care breast cancer screening in high‐risk women with dense breasts</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Claire Keun Sun Park</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Shuwei Xing</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Samuel Papernick</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Nathan Orlando</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Eric Knull</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Carla Du Toit</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Jeffrey Scott Bax</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Lori Gardi</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Kevin Barker</span><span>, </span></li><li><span class="hlFld-ContribAuthor">David Tessier</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Aaron Fenster</span></li></ul></div><div class="meta">7 April 2022 | Medical Physics, Vol. 49, No. 6</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1002/mp.15632">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.3390/app12052689"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.3390/app12052689">Different Types of Ultrasound Probes Usage for Multi-Angle Conventional 3D Ultrasound Compound Imaging: A Breast Phantom Study</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Maciej Sabiniok</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Krzysztof J. Opieliński</span></li></ul></div><div class="meta">4 March 2022 | Applied Sciences, Vol. 12, No. 5</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.3390/app12052689">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.4048/jbc.2022.25.e32"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.4048/jbc.2022.25.e32">Assessment of Neoadjuvant Treatment Response Using Automated Breast Ultrasound in Breast Cancer</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Xiaozhi Dang</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Xin Zhang</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Yi Gao</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Hongping Song</span></li></ul></div><div class="meta">1 January 2022 | Journal of Breast Cancer, Vol. 25, No. 4</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.4048/jbc.2022.25.e32">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.1007/s12609-021-00423-1"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.1007/s12609-021-00423-1">Automated Breast Ultrasound: Technical Aspects, Impact on Breast Screening, and Future Perspectives</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Iris Allajbeu</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Sarah E Hickman</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Nicholas Payne</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Penelope Moyle</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Kathryn Taylor</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Nisha Sharma</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Fiona J Gilbert</span></li></ul></div><div class="meta">23 June 2021 | Current Breast Cancer Reports, Vol. 13, No. 3</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1007/s12609-021-00423-1">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.3390/jpm11080703"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.3390/jpm11080703">Pros and Cons for Automated Breast Ultrasound (ABUS): A Narrative Review</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Ioana Boca (Bene)</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Anca Ileana Ciurea</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Cristiana Augusta Ciortea</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Sorin Marian Dudea</span></li></ul></div><div class="meta">23 July 2021 | Journal of Personalized Medicine, Vol. 11, No. 8</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.3390/jpm11080703">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.1016/j.clinimag.2020.12.007"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.1016/j.clinimag.2020.12.007">Automated breast ultrasound: Supplemental screening for average-risk women with dense breasts</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Georgia Giakoumis Spear</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Ellen B. Mendelson</span></li></ul></div><div class="meta">2021Aug1 | Clinical Imaging, Vol. 76</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1016/j.clinimag.2020.12.007">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.1590/0100-3984.2020.53.5e2"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.1590/0100-3984.2020.53.5e2">Automated breast ultrasound: are we ready to put it into practice in Brazil?</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Linei Urban</span></li></ul></div><div class="meta">1 October 2020 | Radiologia Brasileira, Vol. 53, No. 5</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1590/0100-3984.2020.53.5e2">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.1093/jbi/wbz055"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.1093/jbi/wbz055">Screening Breast Ultrasound Using Handheld or Automated Technique in Women with Dense Breasts</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Wendie A Berg</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Athina Vourtsis</span></li></ul></div><div class="meta">31 October 2019 | Journal of Breast Imaging, Vol. 1, No. 4</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.1093/jbi/wbz055">Crossref</a></div></div></li><li class="citedByEntry" data-doi="10.53347/rID-15361"><div class="related"><div class="related__title"><a target="_blank" href="https://doi.org/10.53347/rID-15361">Automated full-field volumetric ultrasound</a></div><div class="related__authors"><ul class="rlist--inline loa mobile-authors loa-height"><li><span class="hlFld-ContribAuthor">Stefano Pacifici</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Joachim Feger</span><span>, </span></li><li><span class="hlFld-ContribAuthor">Arlene Campos</span></li></ul></div><div class="meta">11 October 2011</div></div><div class="getFTR external-links"><div class="core-xlink-crossref"><a href="https://doi.org/10.53347/rID-15361">Crossref</a></div></div></li></ul></div></div></div>
+</section></section></div><div id="core-collateral-fulltext-options" data-active-pane="false"><header><h2><i class="icon-eye" aria-hidden="true"></i>View Options</h2></header><div data-mark="default" class="section--wrapper"><section>
+
+
+
+        
+        <!--note - this is the RADIOGRAPHICS Pricing scope. Do not edit if greyed out-->
+
+<div style="padding-left:0px; font-size:14px">
+
+
+<p>To read the full-text, please use one of the options below to sign in or purchase access.</p>
+
+<p><strong>RSNA members have free access to all <em>RadioGraphics</em> content. However, complimentary journal-based CME activities are only included for members with the Standard or Full Access packages.</strong></p>
+
+<p>RSNA Journals participate in the World Health Organization's <a target="_blank" href="https://www.research4life.org"><strong>Research4Life</strong></a> program and the online versions of the journals are either freely available or are available with low-cost access to not-for-profit institutions in eligible countries.</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="eCommercePurchaseAccessWidget" data-widget-id="57685cae-1c45-4ca1-9738-4d1d2f3ac2a9" class="eCommercePurchaseAccessWidget">
+        
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="pill__item pill__item--border-bottom purchaseArea my-24">
+    
+
+
+
+
+
+<div class="loginOptions">
+    <h4 class="text-title-5">Login options</h4>
+    <p class="text-small text-darker-gray">
+        Check if you have access through your login credentials or your institution to get full access on this article.
+    </p>
+    <div class="loginOptions__btns-wrapper">
+        
+                
+                    
+                    
+                        <a href="#" class="btn btn-outline-dark btn-sm" data-toggle="modal" data-target="#modal--login">
+                            <span class="icon-component ">
+                              <svg aria-hidden="true" style="">
+                                 <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#user"></use>
+                              </svg>
+                            </span>
+                            <span>RSNA Member Login</span>
+                        </a>
+                    
+                
+        
+        <a href="/action/ssostart?redirectUri=%2Fdoi%2Fabs%2F10.1148%2Frg.2019180104%3FjournalCode%3Dradiographics" class="btn btn-outline-dark btn-sm">
+            <span class="icon-component ">
+              <svg aria-hidden="true" style="">
+                 <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#institution"></use>
+              </svg>
+            </span>
+            <span>
+                Login through your library/institution
+            </span>
+        </a>
+    </div>
+
+    <div class="redeem-voucher-section" data-pb-dropzone="redeem-voucher-dropzone">
+        
+    </div>
+
+    <div class="restore-content-access-section" data-pb-dropzone="restore-content-dropzone">
+        
+
+    </div>
+
+</div>
+</div>
+
+
+    <div class="pill__item eCommercePurchaseAccessWidgetContainer">
+        
+            
+                <div class="save-for-later">
+                    
+                        <a data-bind="saveItem" data-doi="10.1148/rg.2019180104" class="save-for-later-link"
+                           href="/action/saveItem?doi=10.1148/rg.2019180104">
+                           <span class="icon-component ">
+                               <svg aria-hidden="true" style="">
+                                  <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#favoritesHeart"></use>
+                               </svg>
+                           </span>
+                            <span>
+                                Save for later
+                            </span>
+                        </a>
+                    
+                    <a class="saved-go-cart d-none" href="/action/showCart?FlowID=2">
+                        Item saved, go to cart
+                    </a>
+                </div>
+            
+            
+        
+        <h4 class="text-title-5">Purchase Options</h4>
+        <p class="text-small text-darker-gray">Subscribe and get full access to this article.</p>
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="purchase-options-container">
+    
+
+    
+
+    
+        
+            
+                <div class="purchase-items">
+                    <div class="purchase-item">
+                        
+                        
+                            
+                            
+                                <div class="add-journal-to-cart">
+                                    
+                                        <header>
+                                            <a href="#" class="purchase-item__title">
+                                                
+                                                    
+                                                    
+                                                    
+                                                        Purchase this article as pay-per-view (unlimited access for 24 hours)
+                                                    
+                                                
+                                            </a>
+                                            <div class="purchaseMessage d-none info" data-item="JRNL-PPV-PPV-STANDARD-ELECTRONIC-USD-10.1148/RG.2019180104-500058">
+                                                <p></p>
+                                            </div>
+                                        </header>
+                                        <div class="purchase-item__info">
+                                            <div></div>
+                                            <ul class="list-list-unstyled list-inline">
+                                                <li class="list-inline-item">Vol. 39</li>
+                                                <li class="list-inline-item">No. 4</li>
+                                                
+                                                    <li class="list-inline-item">pp. 913-1232</li>
+                                                
+                                            </ul>
+                                        </div>
+                                        <footer>
+                                            <div class="purchase-item__price-group">
+                                                <div class="purchase-item__price">
+                                                    <span class="purchase-item__price__label">
+                                                            USD
+                                                    </span>
+                                                    <span class="purchase-item__price__value">
+                                                            $30.00
+                                                    </span>
+                                                </div>
+                                                <a data-bind="addItem" data-key="JRNL-PPV-PPV-STANDARD-ELECTRONIC-USD-10.1148/RG.2019180104-500058"
+                                                        data-entity="JRNL-PPV-PPV-STANDARD-ELECTRONIC-USD-10.1148/RG.2019180104-500058"
+                                                        href="/action/addToCart?id=JRNL-PPV-PPV-STANDARD-ELECTRONIC-USD-10.1148/RG.2019180104-500058"
+                                                        class="add-article-to-cart btn btn-primary btn-sm">
+                                                    <span class="icon-component ">
+                                                      <svg aria-hidden="true" style="">
+                                                         <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#cart"></use>
+                                                      </svg>
+                                                   </span>
+                                                    <span>Add to Cart</span>
+                                                </a>
+                                            </div>
+                                            <div data-item="JRNL-PPV-PPV-STANDARD-ELECTRONIC-USD-10.1148/RG.2019180104-500058" class="addedMessage d-none">
+                                                <a href="/action/showCart?FlowID=2" class="btn btn-sm btn-success">
+                                                    <span>Checkout</span>
+                                                </a>
+                                            </div>
+                                        </footer>
+                                    
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                </div>
+            
+                <div class="purchase-items">
+                    <div class="purchase-item">
+                        
+                        
+                            
+                            
+                                <div class="add-journal-to-cart">
+                                    
+                                        <header>
+                                            <a href="#" class="purchase-item__title">
+                                                
+                                                    
+                                                    
+                                                    
+                                                        RSNA Journals monthly subscription (unlimited access to all five journals for 30 days)
+                                                    
+                                                
+                                            </a>
+                                            <div class="purchaseMessage d-none info" data-item="30-DAY-UNLIMITED-PPV-PPV-ALL-CONTENT-30-DAY-ELECTRONIC-USD-10.1148/RG.2019180104-500065">
+                                                <p></p>
+                                            </div>
+                                        </header>
+                                        <div class="purchase-item__info">
+                                            <div></div>
+                                            <ul class="list-list-unstyled list-inline">
+                                                <li class="list-inline-item">Vol. 39</li>
+                                                <li class="list-inline-item">No. 4</li>
+                                                
+                                                    <li class="list-inline-item">pp. 913-1232</li>
+                                                
+                                            </ul>
+                                        </div>
+                                        <footer>
+                                            <div class="purchase-item__price-group">
+                                                <div class="purchase-item__price">
+                                                    <span class="purchase-item__price__label">
+                                                            USD
+                                                    </span>
+                                                    <span class="purchase-item__price__value">
+                                                            $45.00
+                                                    </span>
+                                                </div>
+                                                <a data-bind="addItem" data-key="30-DAY-UNLIMITED-PPV-PPV-ALL-CONTENT-30-DAY-ELECTRONIC-USD-10.1148/RG.2019180104-500065"
+                                                        data-entity="30-DAY-UNLIMITED-PPV-PPV-ALL-CONTENT-30-DAY-ELECTRONIC-USD-10.1148/RG.2019180104-500065"
+                                                        href="/action/addToCart?id=30-DAY-UNLIMITED-PPV-PPV-ALL-CONTENT-30-DAY-ELECTRONIC-USD-10.1148/RG.2019180104-500065"
+                                                        class="add-article-to-cart btn btn-primary btn-sm">
+                                                    <span class="icon-component ">
+                                                      <svg aria-hidden="true" style="">
+                                                         <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#cart"></use>
+                                                      </svg>
+                                                   </span>
+                                                    <span>Add to Cart</span>
+                                                </a>
+                                            </div>
+                                            <div data-item="30-DAY-UNLIMITED-PPV-PPV-ALL-CONTENT-30-DAY-ELECTRONIC-USD-10.1148/RG.2019180104-500065" class="addedMessage d-none">
+                                                <a href="/action/showCart?FlowID=2" class="btn btn-sm btn-success">
+                                                    <span>Checkout</span>
+                                                </a>
+                                            </div>
+                                        </footer>
+                                    
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                </div>
+            
+        
+        
+    
+
+    
+        <div class="savedItem-info d-none">
+            <p></p>
+        </div>
+    
+</div>
+    </div>
+
+
+
+
+
+        </div>
+    
+
+
+
+
+
+        
+        <div class="purchase-item my-16"><a class="purchase-item__title" href="https://www.rsna.org/membership">Become a Member </a></div>
+<div class="purchase-item my-16"><a class="purchase-item__title" href="https://www.rsna.org/store/journals">Subscribe now <span>(individual subscription: $288.00)</span> </a></div>
+
+</section><section><div class="core-deep-dyve hidden"><h4 class="text-title-5">Rent at DeepDyve</h4><p><a id="deepDyveLink" data-affid="rsna" data-doi="10.1148/rg.2019180104" data-issn="0271-5333" class="deep-dyve">Rent at DeepDyve</a></p></div>
+
+
+
+        
+        <h4 class="text-title-5"> Recommend to a librarian</h4>
+<p style="line-height: 10px;"><a href="https://www.rsna.org/journals/subscriptions/librarian-guide">Recommend this journal to your librarian</a></p>
+
+
+
+
+        
+        <hr style="margin:24px 0">
+<h4 class="text-title-5"> Redeem Voucher</h4>
+
+
+
+
+        
+        <div class="redeem-voucher"><p>Access tokens allow you to activate and access content online. If you have been issued an access token, please enter it here and click 'Submit':</p><form id="accessTokenForm" action="/token" name="accessTokenForm" method="post"><p>Please enter your claim number.</p><input type="hidden" name="anti-forgery-token"/><input type="hidden" name="redirectUri" value="/doi/abs/10.1148/rg.2019180104?journalCode=radiographics"/><input type="hidden" name="id" value="d2b04925-7fd8-41a0-9d9b-a7df1f379e8e"/><div class="form-group"><label for="tokenAccess">Voucher Number</label><input id="tokenAccess" type="text" required="required" name="tokenAccess" value="" size="15" class="form-control"/></div><button id="submitRedeemToken" type="submit" disabled="disabled" class="btn px-24 text-small-bold btn-primary d-flex ml-auto submit-btn">Submit</button></form></div>
+
+
+
+
+        
+        <hr style="margin:24px 0">
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+<div class="restore-content-access-widget js__mail_verification_widget">
+    <h4 class="text-title-5">
+        Restore your content access
+    </h4>
+    <form action="/action/restoreContentAccess" method="post"><div class="restore-info hidden">
+            <p class="infoMsgBox"></p>
+        </div>
+
+        <div class="restore-error hidden">
+            <p class="errorMsgBox"></p>
+        </div>
+
+        <div id="formBody">
+            <p class="text">
+                Enter your email address to restore your content access:
+            </p>
+            <div class="form-group">
+                <label for="email">
+                    Email
+                </label>
+                <div class="label">
+                    <div class="field-info hidden">
+                        <div class="message"></div>
+                    </div>
+                </div>
+                <input id="email" type="email" name="email" value="" class="form-control" required="required"/>
+            </div>
+            <div class="actions d-flex justify-content-end">
+                <button id="submit-button" type="submit" data-bind="request" class="btn btn-primary">
+                    Send Restore Email
+                </button>
+            </div>
+        </div></form>
+    <p class="note">
+        Note: This functionality works only for purchases done as a guest. If you already have an account, log in to access the content to which you are entitled.
+    </p>
+</div>
+
+</section></div><div data-mark="pageBuilder" class="section--wrapper"><h3>View options</h3><section class="format--download_pdf_supplement"><h4> PDF and All Supplements</h4><a href="#" class="btn btn--primary btn--other download_pdf_supplement"><span class="link-text">Download PDF and All Supplements</span></a></section><p class="downloadIndicator hidden mt-8 text-small-bold">Download is in progress</p><section class="format--pdf"><h4> <abbr title="Portable Document Format">PDF</abbr></h4><a href="https://pubs.rsna.org/doi/epdf/10.1148/rg.2019180104" class="btn btn--pdf"><i aria-hidden="true" class="icon-pdf"></i><span class="link-text">View PDF</span></a></section><section class="format--full"><h4> Full Text</h4><a href="https://pubs.rsna.org/doi/full/10.1148/rg.2019180104" class="btn btn--fullText"><i aria-hidden="true" class="icon-subject"></i><span class="link-text">View Full Text</span></a></section></div></div><div id="core-collateral-figures" data-active-pane="false"><header><h2><i class="icon-photo" aria-hidden="true"></i>Figures</h2></header><!-- There is no content. --></div><div id="core-collateral-tables" data-active-pane="false"><header><h2><i class="icon-tables" aria-hidden="true"></i>Tables</h2></header><!-- There is no content. --></div><div id="core-collateral-media" data-active-pane="false"><header><h2><i class="icon-play-circle-filled" aria-hidden="true"></i>Media</h2></header><!-- There is no content. --></div><div id="core-collateral-share" data-active-pane="false"><header><h2><i class="icon-share" aria-hidden="true"></i>Share</h2></header><h3>Share</h3><div class="section--wrapper"><section><h4>Share article link</h4><div id="share-self"><p class="share-self__source"></p><button aria-label="Share article link" class="share-self__action btn btn--inverse"><i aria-hidden="true" class="icon-copy"></i><span>Copy Link</span></button><div aria-live="polite" class="share-self__status"><p class="share-self__success"><i aria-hidden="true" class="icon-check_circle"></i><span>Copied!</span></p><p class="share-self__failed"><i aria-hidden="true" class="icon-x_btnclose"></i><span>Copying failed.</span></p></div></div></section><section><h4>Share</h4><div class="share-buttons a2a a2a_kit"><a href="#" aria-label="Share on Facebook" data-id="article-share-facebook" rel="nofollow noopener" role="link" target="_blank" title="Share on Facebook" class="btn btn--facebook a2a_button_facebook"><i aria-hidden="true" class="icon-facebook"></i><span>Facebook</span></a><a href="#" aria-label="Share on X" data-id="article-share-twitter" rel="nofollow noopener" role="link" target="_blank" title="Share on X" class="btn btn--twitter a2a_button_twitter"><i aria-hidden="true" class="icon-twitter"></i><span>X</span></a><a href="#" aria-label="Share on Bluesky" data-id="article-share-bluesky" rel="nofollow noopener" role="link" target="_blank" title="Share on Bluesky" class="btn btn--bluesky a2a_button_bluesky"><i aria-hidden="true" class="icon-bluesky"></i><span>Bluesky</span></a><a href="#" aria-label="Share on LinkedIn" data-id="article-share-linkedin" rel="nofollow noopener" role="link" target="_blank" title="Share on LinkedIn" class="btn btn--linkedin a2a_button_linkedin"><i aria-hidden="true" class="icon-LinkedIn2"></i><span>LinkedIn</span></a><a href="#" aria-label="Share on email" data-id="article-share-email" rel="nofollow noopener" role="link" target="_blank" title="Share on email" class="btn btn--email a2a_button_email"><i aria-hidden="true" class="icon-mail"></i><span>email</span></a></div></section></div></div></div><aside data-core-aside="right-rail">
+
+
+
+        
+        <h4 class="section-header">Published in</h4>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <section data-widget-def="ux3-layout-widget" data-widget-id="5e6d4f66-5d55-45ca-8476-55afdd6393b7" class="issue-sidebar d-flex mt-20 mb-48">
+        
+
+
+
+        
+        <section class="issue-sidebar__content">
+
+
+
+        
+        <div class="cover-image flat d-flex justify-content-center flex-column"><div class="cover-image__image"><a href="/toc/radiographics/39/4" title="View issue" data-feathr-click-track="true" class="d-block"><img src="/cms/10.1148/rg.2019.39.issue-4/asset/16bd281d-a716-d281-3a71-bd281d3a716b/rg.2019.39.issue-4.cover.jpg" alt="issue cover image " loading="lazy"></a></div></div><div class="text-small mx-auto mt-3 mb-32 text-center"><strong><a href="/toc/radiographics/39/4" class="text-black-gray"><span class="text-nowrap">Volume 39</span>|<span class="text-nowrap cleanIssue">Number 4</span><span class="d-block">July-August 2019</span></a></strong></div>
+</section>
+
+        </section>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <section data-widget-def="ux3-layout-widget" data-widget-id="a2da8825-8c46-4fba-b52f-43eb957ec1f3" class="pt-8 d-flex justify-content-center mb-48">
+        
+
+
+
+        
+        <section class="adplaceholder  align-items-center">
+
+
+
+        
+        <h4 class="adplaceholder__title overline">Advertisement</h4>
+
+
+
+
+        
+        
+
+
+
+    
+        <div class="pb-las">
+            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" crossorigin="anonymous" nonce="9f8091b21c66f7bc-ATL"></script>
+<script nonce="9f8091b21c66f7bc-ATL">
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1003505/RG-Article-Pages-300x250', [300, 250], 'div-gpt-ad-1760379555293-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- /1003505/RG-Article-Pages-300x250 -->
+<div id="div-gpt-ad-1760379555293-0" style="min-width: 300px; min-height: 250px;">
+  <script nonce="9f8091b21c66f7bc-ATL">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1760379555293-0'); });
+  </script>
+</div>
+            
+        </div>
+    
+
+    
+
+    
+
+
+</section>
+
+        </section>
+    
+
+
+
+
+
+        
+        <div style="text-align: center"><a href="https://chatbot-beta.rsna.org/"><img style="margin-bottom:30px;" alt="RG AI Research Assistant Banner" src="/pb-assets/global/RG-Chatbot-1776373202743.jpg"></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <section data-widget-def="UX3combinedRecommendationsWidget" data-widget-id="fa04cb1b-5602-4326-b66d-4f857e5768b3" class="mb-48">
+        
+
+
+
+        
+            <h4 class="section-header">
+                Recommended
+            </h4>
+        
+        <div data-ajaxurl="/pb/widgets/ux3/ux3-showRecommend?widgetId=fa04cb1b-5602-4326-b66d-4f857e5768b3&amp;doi=10.1148%2Frg.2019180104&amp;pbContext=%3Bjournal%3Ajournal%3Aradiographics%3Bpage%3Astring%3AArticle%2FChapter+View%3Bctype%3Astring%3AJournal+Content%3BsubPage%3Astring%3AAbstract%3BrequestedJournal%3Ajournal%3Aradiographics%3Bwebsite%3Awebsite%3Arsna-site%3Bissue%3Aissue%3A10.1148%2Frg.2019.39.issue-4%3Bwgroup%3Astring%3ARSNA+Publication+Websites%3BpageGroup%3Astring%3APublication+Pages%3Barticle%3Aarticle%3A10.1148%2Frg.2019180104&amp;wlm=mkbelrr5" class="show-recommended-placeholder"></div>
+
+        </section>
+    
+
+
+
+
+
+        
+        <section class="tgs-section mb-48"><h4 class="section-header">Topics</h4><ul><li><a href="/topic/subspecialty/br" class="button-sq">Breast Imaging</a></li><li><a href="/topic/subspecialty/sq" class="button-sq">Safety and Quality</a></li></ul></section>
+
+
+
+
+        
+        <section class="submit-your-work--with-overlay">
+<div class="submit-your-work my-6">
+<div style="background: url('/pb-assets/Global/box-backgrounds/email-background-1756133935790.jpg'); background-position: center;" class="submit-your-work-bg p-12 p-sm-12">
+<div class="bg-white text-center submit-your-work-content px-12 pt-12 pb-12">
+<h4 class="main-title text-large-bold mb-8">Sign Up for Email Alerts</h4>
+<p style="width: 100%;">Stay up-to-date with the latest content from RSNA Journals.</p>
+<a href="https://shyxp.share.hsforms.com/2-xrMz9_WRsWtLqHGjHOtgA" class="animation-icon-shift cta text-uppercase text-reset" data-feathr-click-track="true" data-feathr-link-aids="663193cd9cd15f066d578bab"><span class="font-weight-bold">Sign Up</span><span class="icon-component"><svg aria-hidden="true">
+              <use xlink:href="/specs/libraries/ui-theme-eureka/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#arrows-right"></use></svg></span></a></div>
+</div>
+</div>
+</section>
+</aside></article><div data-extent="article-wrapper"><div class="core-container"></div><div class="after-credits"><div class="core-container"><a href="/doi/full/10.1148/rg.2019180104" aria-hidden="true"><span>View full text</span></a><span class="spacer">|</span><a href="/doi/pdf/10.1148/rg.2019180104?download=true" id="downloadPdfUrl" aria-hidden="true" data-doi="10.1148/rg.2019180104"><span>Download PDF</span></a></div></div></div><script id="axel-publication-metadata" type="application/json">{"doi":"10.1148/rg.2019180104","type":"Article"}
+</script><script type="text/javascript" data-ot-ignore="data-ot-ignore" defer="defer" src="https://static.addtoany.com/menu/page.js" class="optanon-category-C0004 ot-vscat-C0004"></script><template id="core_texts_template" data-goto="Go to ##" data-gotographic="Go to Figure" data-gototable="Go to Table" data-gotomedia="Go to Media" data-openall="Open all in viewer" data-openspecific="Open ## in Viewer" data-opengeneric="Open in Viewer" data-citations-goto="Go to Citation" data-citations-toggle="Toggle citations menu" data-citations-links="Citations links" data-citations-hide="Hide Citations" data-citations-show="Show Citations" data-footnotes-goto="Return to text" data-footnotes-toggle="Toggle footnotes menu" data-footnotes-links="Footnotes links" data-footnotes-hide="Hide Footnotes" data-footnotes-show="Show Footnotes"></template><div role="navigation" aria-label="Sticky Navigation" class="st-header"><div class="st-header__content"><div class="st-header__item st-header__menu"></div><div class="st-header__current st-header__item"><div class="st-header__label">Now Reading:</div><div class="st-header__title"></div></div><div class="st-header__alerts st-header__item"></div><div class="st-header__favorite st-header__item"></div><div class="st-header__share st-header__item"><div class="share-dropblock dropdown"><a id="sticky-header-dropBlock" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle"><span title="Share options"><span class="sr-only">Share</span><i aria-hidden="true" class="icon-share"></i></span></a><div aria-labelledby="sticky-header-dropBlock" class="dropdown-menu"><ul class="rlist--inline a2a a2a_kit"><li><a href="#" aria-label="Share on Facebook" data-id="article-share-facebook" rel="nofollow noopener" role="link" target="_blank" title="Share on Facebook" class="btn btn--facebook a2a_button_facebook"><i aria-hidden="true" class="icon-facebook"></i></a></li><li><a href="#" aria-label="Share on X" data-id="article-share-twitter" rel="nofollow noopener" role="link" target="_blank" title="Share on X" class="btn btn--twitter a2a_button_twitter"><i aria-hidden="true" class="icon-twitter"></i></a></li><li><a href="#" aria-label="Share on Bluesky" data-id="article-share-bluesky" rel="nofollow noopener" role="link" target="_blank" title="Share on Bluesky" class="btn btn--bluesky a2a_button_bluesky"><i aria-hidden="true" class="icon-bluesky"></i></a></li><li><a href="#" aria-label="Share on LinkedIn" data-id="article-share-linkedin" rel="nofollow noopener" role="link" target="_blank" title="Share on LinkedIn" class="btn btn--linkedin a2a_button_linkedin"><i aria-hidden="true" class="icon-linkedin"></i></a></li><li><a href="#" aria-label="Share on email" data-id="article-share-email" rel="nofollow noopener" role="link" target="_blank" title="Share on email" class="btn btn--email a2a_button_email"><i aria-hidden="true" class="icon-mail"></i></a></li></ul></div></div></div><div class="st-header__nav st-header__item"><div class="content-navigation"><a href="/doi/10.1148/rg.2019180177" aria-label="Next article" aria-disabled="false" class="content-navigation__next"><div aria-hidden="true" class="content-navigation__hint"><div class="content-navigation__hint__content"><h6>NEXT ARTICLE</h6><div>Multimodality Imaging of Complications of Cardiac Valve                     Surgeries</div></div></div><span>Next</span><i aria-hidden="true" class="icon-arrow-right"></i></a></div></div></div><div class="st-header__track"><div id="progress-tracker" class="st-header__tracker"></div></div></div><template id="fv_skeleton_template" data-overlay="View figure"><div role="dialog" aria-modal="true" aria-label="Figure Viewer" hidden="hidden" class="core-fv"><div role="region" hidden="hidden" class="core-fv__directory"><header aria-label="Category Tabs Toolbar" class="core-fv__toolbar"><div role="tablist" aria-label="Figure Viewer Category Tabs"><button role="tab" aria-selected="false" aria-controls="core-fv-panel_graphic" id="core-fv__graphic-tab" class="core-fv__btn"><span>Figures</span></button><button role="tab" aria-selected="false" aria-controls="core-fv-panel_table" id="core-fv__table-tab" class="core-fv__btn"><span>Tables</span></button></div><button role="button" class="core-fv__close core-fv__btn" title="Close"><i aria-hidden="true" class="icon-close"></i><span class="sr-only">Close figure viewer</span></button></header><main aria-label="Selected Category Content" class="core-fv__content"><div role="tabpanel" id="core-fv-panel_graphic" aria-labelledby="core-fv__graphic-tab"></div><div role="tabpanel" id="core-fv-panel_table" aria-labelledby="core-fv__table-tab"></div></main></div><div role="region" data-zoomed="false" hidden="hidden" class="core-fv__lightbox"><header aria-label="Figure Viewer Toolbar" class="core-fv__toolbar"><button role="button" class="core-fv__close core-fv__btn"><i aria-hidden="true" class="icon-arrow-left"></i><span>Back to article</span></button><div id="core-fv__toolbar__info" class="core-fv__toolbar__info">Figure title goes here</div><div class="core-fv__toolbar__holster"><div data-visible-on="graphic table"><button role="button" class="core-fv__zoom  core-fv__btn" title="Change zoom level"><i data-zoom="in" aria-hidden="true" class="icon-zoom-in"></i><i data-zoom="out" aria-hidden="true" class="icon-zoom-out"></i><span class="sr-only">Change zoom level</span></button></div><div data-visible-on="graphic table media"><a href="#f1" class="core-fv__back core-fv__back-to-original core-fv__btn" title="Go to figure location within the article"><i aria-hidden="true" class="icon-figure-in-text-1"></i><span class="sr-only">Go to figure location within the article</span></a></div><div data-visible-on="graphic"><button role="button" class="core-fv__download_panel  core-fv__btn" aria-controls="core-fv__download" aria-expanded="false" title="Download"><i aria-hidden="true" class="icon-download"></i><span class="sr-only">Toggle download panel</span></button><div id="core-fv__download" aria-label="download_panel pane options" aria-hidden="true" class="core-fv__aside__download_panel core-fv-hidden"><div class="core-fv__panel__header"><span class="core-fv__panel__header__title"></span><button role="button" class="core-fv__download_panel  core-fv__btn" aria-controls="core-fv__download" aria-expanded="false" title="Download"><i aria-hidden="true" class="icon-close"></i><span class="sr-only">Toggle download panel</span></button></div><div class="core-fv__panel__content"><div class="core-fv__panel__title">DOWNLOAD OPTIONS</div><div class="core-fv__panel__text"></div></div></div></div><div data-visible-on="graphic table media"><button role="button" class="core-fv__share  core-fv__btn" aria-controls="core-fv__share" aria-expanded="false" title="Toggle share panel"><i aria-hidden="true" class="icon-share"></i><span class="sr-only">Toggle share panel</span></button><div id="core-fv__share" aria-label="share pane options" aria-hidden="true" class="core-fv__aside__share core-fv-hidden"><div class="core-fv__panel__header"><span class="core-fv__panel__header__title"></span><button role="button" class="core-fv__share  core-fv__btn" aria-controls="core-fv__share" aria-expanded="false" title="Toggle share panel"><i aria-hidden="true" class="icon-close"></i><span class="sr-only">Toggle share panel</span></button></div><div class="core-fv__panel__content"><div class="core-fv__panel__title">Share</div><div class="core-fv__panel__text"></div></div></div></div><div data-visible-on="graphic table media"><button role="button" class="core-fv__info  core-fv__btn" aria-controls="core-fv__info" aria-expanded="false" title="Toggle information panel"><i aria-hidden="true" class="icon-info"></i><span class="sr-only">Toggle information panel</span></button><div id="core-fv__info" aria-label="info pane options" aria-hidden="true" class="core-fv__aside__info core-fv-hidden"><div class="core-fv__panel__header"><span class="core-fv__panel__header__title"></span><button role="button" class="core-fv__info  core-fv__btn" aria-controls="core-fv__info" aria-expanded="false" title="Toggle information panel"><i aria-hidden="true" class="icon-close"></i><span class="sr-only">Toggle information panel</span></button></div><div class="core-fv__panel__content"><div class="core-fv__panel__title"></div><div class="core-fv__panel__text"></div></div></div></div></div></header><div class="core-fv__content"><div data-type="graphic" aria-roledescription="carousel"><button type="button" disabled="disabled" title="Go to previous graphic" data-type="graphic" class="core-fv-carousel_control previous"><i aria-hidden="true" class="icon-arrow-left"></i><span class="sr-only">Go to previous graphic</span></button><div id="core-fv-carousel_graphic" aria-live="polite" aria-atomic="false" aria-label="Displayed graphic" class="core-fv-carousel"></div><button type="button" disabled="disabled" title="Go to next graphic" data-type="graphic" class="core-fv-carousel_control next"><i aria-hidden="true" class="icon-arrow-right"></i><span class="sr-only">Go to next graphic</span></button></div><div data-type="table" aria-roledescription="carousel"><button type="button" disabled="disabled" title="Go to previous table" data-type="table" class="core-fv-carousel_control previous"><i aria-hidden="true" class="icon-arrow-left"></i><span class="sr-only">Go to previous table</span></button><div id="core-fv-carousel_table" aria-live="polite" aria-atomic="false" aria-label="Displayed table" class="core-fv-carousel"></div><button type="button" disabled="disabled" title="Go to next table" data-type="table" class="core-fv-carousel_control next"><i aria-hidden="true" class="icon-arrow-right"></i><span class="sr-only">Go to next table</span></button></div></div><div class="core-fv__filmstrip core-fv-hidden"><button title="View all" aria-expanded="false" aria-controls="core-fv__filmstrip" class="core-fv__filmstrip__tongue core-fv__btn"><i aria-hidden="true" class="icon-arrow-down"></i><span data-type="graphic">All figures</span><span data-type="table">All tables</span></button><div id="core-fv__filmstrip"><nav aria-label="Figure Viewer extra controls" data-type="graphic" class="core-fv__filmstrip__content"><div class="core-fv__filmstrip__nav"><div id="core-fv-filmstrip_graphic" aria-live="polite" aria-label="Figure Navigation" role="tablist" class="figures-group"></div><button data-target="core-fv-panel_graphic" data-open="viewer" title="Go to all figures directory" aria-controls="core-fv-panel_graphic" class="core-fv__openDirectory btn btn-primary"><i aria-hidden="true" class="icon-more-square"></i><span>View all material</span></button></div></nav><nav aria-label="Figure Viewer extra controls" data-type="table" class="core-fv__filmstrip__content"><div class="core-fv__filmstrip__nav"><div id="core-fv-filmstrip_table" aria-live="polite" aria-label="Figure Navigation" role="tablist" class="figures-group"></div><button data-target="core-fv-panel_table" data-open="viewer" title="Go to all figures directory" aria-controls="core-fv-panel_table" class="core-fv__openDirectory btn btn-primary"><i aria-hidden="true" class="icon-more-square"></i><span>View all material</span></button></div></nav></div></div></div></div></template><template id="toCitationLink" data-citation="xrefBack.types.citation" data-footnote="xrefBack.types.footnote"><div class="to-citation__wrapper"><a class="to-citation"><i aria-hidden="true" class="icon-return"></i><span>xrefBack.goTo</span></a></div></template><template id="toCitationButton" data-citation="xrefBack.types.citation" data-footnote="xrefBack.types.footnote"><div class="to-citation__wrapper"><button class="to-citation"><i aria-hidden="true" class="icon-return"></i><span>xrefBack.goTo</span></button></div></template><template id="toCitationAccordion" data-collapse-citation="xrefBack.types.hideCitation" data-expand-citation="xrefBack.types.showCitation" data-collapse-footnote="xrefBack.types.hideFootnote" data-expand-footnote="xrefBack.types.showFootnote"><div class="to-citation__wrapper"><button aria-controls="aria-controls" aria-expanded="false" aria-label="xrefBack.ariaLabel" class="to-citation__toggle"><i aria-hidden="true" class="icon-plus"></i><span data-expand-title="data-expand-title" data-collapsed-title="data-collapsed-title" class="accordion__toggle__title"></span></button><div role="menu" aria-label="xrefBack.links" class="to-citation__accordion no-separator"><ul></ul></div></div></template><template id="toCitationAccordionItem"><li><a class="to-citation"><i aria-hidden="true" class="icon-return"></i><span></span></a></li></template><template id="collateral_texts_template" data-references="References" data-more="More"><svg data-tags="copyright" viewBox="0 0 24 24"><path d="M12 20.016q3.281 0 5.648-2.368T20.016 12t-2.368-5.648T12 3.984 6.352 6.352 3.984 12t2.368 5.648T12 20.016zm0-18q4.125 0 7.055 2.93T21.985 12t-2.93 7.055T12 21.985t-7.055-2.93T2.015 12t2.93-7.055T12 2.015zm-.14 7.125q-1.876 0-1.876 2.718v.282q0 2.718 1.875 2.718.704 0 1.172-.398t.469-1.008h1.781q0 1.172-1.031 2.063-.984.843-2.39.843-1.876 0-2.86-1.125t-.984-3.093v-.282q0-1.921.937-3 1.125-1.265 2.906-1.265 1.547 0 2.438.89.984.985.984 2.297H13.5q0-.328-.14-.61-.235-.468-.329-.562-.469-.468-1.172-.468z"/></svg><span>Request permissions</span><i aria-hidden="true" class="icon-extlink-smooth"></i></template><template id="collapsible_authors_template"><button data-expanded="false" data-expandable="all" data-label-expand="Expand All" data-label-collapse="Collapse All" class="collateral-contributors-control"><span>Expand All</span></button></template>
+<template id="collapsible_tables_collapse_template"><div class="collapsible-figure-btn__wrapper expanded"><button aria-expanded="true" class="btn collapsible-figure-btn btn--inverse"><i aria-hidden="true" class="icon-arrow-up"></i><span class="text-uppercase">Collapse</span></button></div></template>
+<template id="collapsible_tables_expand_template"><div class="collapsible-figure-btn__wrapper collapsed"><button aria-expanded="false" class="btn collapsible-figure-btn btn--inverse"><i aria-hidden="true" class="icon-arrow-down"></i><span class="text-uppercase">Expand Table</span></button></div></template>
+<template id="citations_truncate_template"><div class="truncation-wrapper"><button data-label-expand="Show all references" data-label-collapse="Show fewer" data-label-remaining="references remaining" data-trigger="collapse" class="btn btn--inverse">Show all references</button></div></template><template id="coreProducts_truncate_template"><div class="truncation-wrapper"><button data-label-expand="SHOW ALL BOOKS" data-label-collapse="Show fewer" data-label-remaining="books remaining" data-trigger="collapse" class="btn btn--inverse">SHOW ALL BOOKS</button></div></template><template id="authorsAffiliationsLink"><a href="#tab-contributors" class="to-authors-affiliations">Authors Info & Affiliations</a></template>
+</div>
+
+        </main>
+    
+
+
+
+
+
+        
+        <footer class="footer pb-16"><section class="footer__top pb-4 pt-24 py-sm-12"><div class="container-fluid"><div class="row align-items-center"><div class="col-sm-4 my-16 my-sm-24 d-flex justify-content-center">
+
+
+
+        
+        <div><a href="/" title="logo" class="footer__logo-wrapper "><img src="/pb-assets/images/logos/footer-logo-1762458599157.svg" alt="logo" class="footer__logo" width="204" height="55"></a></div>
+</div><div class="col-sm-4 my-16 my-sm-24 text-uppercase">
+
+
+
+        
+        <div class="footer__sitemap undefined my-8 my-sm-0">
+<ul role="list" class="list-unstyled footer__sitemap__list mb-0 text-center">
+<li role="listitem" class="footer__sitemap__list-item"><a href="https://www.rsna.org/about" class="font-weight-bold animation-underline">About RSNA</a></li>
+<li role="listitem" class="footer__sitemap__list-item my-16"><a href="https://www.rsna.org/journals/subscriptions" class="font-weight-bold animation-underline">Subscribe</a></li>
+<li role="listitem" class="footer__sitemap__list-item my-16"><a href="https://mc.manuscriptcentral.com/rsna" class="font-weight-bold animation-underline">Submit your article</a></li>
+<li role="listitem" class="footer__sitemap__list-item my-16"><a href="/page/help" class="font-weight-bold animation-underline">Contact us</a></li>
+</ul>
+</div>
+</div><div class="col-sm-4 my-16 my-sm-24">
+
+
+
+        
+        <div class="footer__social-media__wrapper d-flex justify-content-center">
+<div class="footer__social-media">
+<ul role="list" class="list-inline footer__social-media__list text-center">
+<li role="listitem" class="list-inline-item footer__social-media__list-item"><a href="https://www.facebook.com/RSNAfans?sk=wall" title="Facebook" class="d-block"><span class="icon-component "><svg aria-hidden="true">
+              <use xlink:href="/specs/libraries/ui-theme-eureka/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#social-facebook"></use></svg></span></a></li>
+<li role="listitem" class="list-inline-item footer__social-media__list-item"><a href="http://www.x.com/rsna" aria-label="Link to X" title="X" class="d-block"><span class="icon-component "><svg aria-hidden="true">
+              <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-7258da6b6f2f174afd4970ed00698302.spritemap.svg#social-x"></use></svg></span></a></li>
+<li role="listitem" class="list-inline-item footer__social-media__list-item"><a href="https://bsky.app/profile/rsnasky.bsky.social" title="Bluesky" class="d-block"><span class="icon-component "><svg aria-hidden="true">
+              <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-6402ae830e154ba00dca852cd7f0e7cb.spritemap.svg#social-bluesky"></use></svg></span></a></li>
+<li role="listitem" class="list-inline-item footer__social-media__list-item"><a href="https://www.instagram.com/rsnagram" title="Instagram" class="d-block"><span class="icon-component "><svg aria-hidden="true">
+              <use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-6402ae830e154ba00dca852cd7f0e7cb.spritemap.svg#instagram"></use></svg></span></a></li>
+<li role="listitem" class="list-inline-item footer__social-media__list-item"><a href="http://www.linkedin.com/company/rsna" title="Linked in" class="d-block"><span class="icon-component "><svg aria-hidden="true">
+              <use xlink:href="/specs/libraries/ui-theme-eureka/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#social-linkedin"></use></svg></span></a></li>
+<li role="listitem" class="list-inline-item footer__social-media__list-item"><a href="https://shyxp.share.hsforms.com/2-xrMz9_WRsWtLqHGjHOtgA" title="Mail" class="d-block"><span class="icon-component "><svg aria-hidden="true">
+              <use xlink:href="/specs/libraries/ui-theme-eureka/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#social-email"></use></svg></span></a></li>
+</ul>
+</div>
+</div>
+</div></div></div><div data-show-after="400" class="back-to-top back-to-top--align-right  "><button data-snap="footer__top" class="back-to-top__action position-relative p-0 m-0 border-0 d-flex flex-column align-items-center justify-content-center"><svg viewBox="0 0 36 36" class="position-relative"><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" class="back-to-top__action__ring-bg"></path><path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" stroke-dasharray="0, 100" class="back-to-top__action__ring"></path></svg><span class="back-to-top__action-icon position-absolute d-flex"><span class="icon-component "><svg aria-hidden="true" style=""><use xlink:href="/specs/products/rsna/releasedAssets/icons/icons-db0642a32256a04b1fd820d93ecb34dc.spritemap.svg#arrows-up"></use></svg></span></span><span class="sr-only">Back to top</span></button></div></section><section class="footer__middle">
+
+
+
+        
+        <style>
+  .footer__slider__link img{
+    max-width: 178px;
+    max-height: 40px;
+  }
+  .footer__slider__link {
+  	padding: 1rem 2.025rem;
+  }
+</style>
+<div class="footer__slider mb-16">
+<div data-slider-vport="screen-xl" class="slideshow--multiple-items-inview px-0 freemode-slider viewport-slider container-fluid justify-content-lg-start text-xl px-xl-0 center-slider">
+<div class="slideshow"><a href="#afterSlideshow-j3n" class="sr-only sr-only-focusable">Skip slideshow</a>
+<div data-loop="true" data-items="auto" data-slideby="1" data-autoheight="false" data-responsive="" data-speed="1000" data-autoplay="false" data-animation="slide" data-indicators="false" data-arrow="false" data-controls="false" data-stagepadding="0" data-label="Slideshow" class="swiper-container" data-pause-slide="Pause slideshow" data-play-slide="Play slideshow" data-go-to-slide="Go to slide:" data-next-slide="Go to next slide" data-prev-slide="Go to previous slide">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><a href="/journal/radiology" title="Radiology Journal Logo" class="footer__slider__link"> <img src="/pb-assets/images/footer-slideshow-logos/RY-1744118445450.svg" alt="Radiology Logo" class="footer__slider__logo"> </a></div>
+<div class="swiper-slide"><a href="/journal/radiographics" title="RadioGraphics Journal Logo" class="footer__slider__link"> <img src="/pb-assets/images/footer-slideshow-logos/RG-1744118445433.svg" alt="RadioGraphics Logo" class="footer__slider__logo"> </a></div>
+<div class="swiper-slide"><a href="/journal/ai" title="Radiology: Artificial Intelligence Logo" class="footer__slider__link"><img src="/pb-assets/images/footer-slideshow-logos/RYAI-1744118447480.svg" alt="Radiology: Artificial Intelligence Logo" class="footer__slider__logo"></a></div>
+<div class="swiper-slide"><a href="/journal/cardiothoracic" title="Radiology: Cardiothoracic Imaging Logo" class="footer__slider__link"><img src="/pb-assets/images/footer-slideshow-logos/RYCTI-1744118446733.svg" alt="Radiology: Cardiothoracic Imaging Logo" class="footer__slider__logo"></a></div>
+<div class="swiper-slide"><a href="/journal/imaging-cancer" title="Radiology: Imaging Cancer Logo" class="footer__slider__link"><img src="/pb-assets/images/footer-slideshow-logos/RYIC-1744118446557.svg" alt="Radiology: Imaging Cancer Logo" class="footer__slider__logo"></a></div>
+<div class="swiper-slide"><a href="https://academic.oup.com/radadv?login=false" title="Radiology Advances Logo" class="footer__slider__link"><img src="/pb-assets/images/footer-slideshow-logos/RYA-1744118445333.svg" alt="Radiology Advances Logo" class="footer__slider__logo"></a></div>
+</div>
+</div>
+<span id="afterSlideshow-j3n" tabindex="-1"></span></div>
+</div>
+</div>
+</section><section class="footer__bottom"><div class="container-100"><div class="row align-items-center"><div class="col-md-8 col-sm-10">
+
+
+
+        
+        <div class="footer__copyright text-center text-sm-left px-sm-0 px-24">
+<p class="m-0"><span>820 Jorie Blvd., Suite 200, </span><span>Oak Brook, IL 60523-2251</span><br><span>U.S. &amp; Canada: 1-877-776-2636 | </span><span>Outside U.S. &amp; Canada: 1-630-571-7873</span></p>
+<p class="m-0">Copyright © 2025<span> Radiological Society of North America</span></p>
+</div>
+</div><div class="col-md-4 col-sm-2 text-sm-right text-center mt-sm-0 mt-24">
+
+
+
+        
+        <ul role="list" class="list-inline footer__copyright__links">
+<li role="listitem" class="list-inline-item"><a href="https://www.rsna.org/about/rsna-terms-of-use" target="_blank" rel="noopener">Terms of Use</a></li>
+<li role="listitem" class="list-inline-item"><a href="https://www.rsna.org/journals/permissions-and-policies" target="_blank" rel="noopener">Policies</a></li>
+<li role="listitem" class="list-inline-item"><a href="/about/accessibility" target="_blank" rel="noopener">Accessibility</a></li>
+</ul>
+</div></div></div></section></footer>
+
+
+
+
+        
+        <div style="width: 100%;">
+<script type="text/javascript" src="https://cdn.rsna.org/shared-javascript/src/js/cookiePolicy.js" nonce="9f8091b21c66f7bc-ATL"></script>
+</div>
+                            
+
+
+
+
+        
+        <div><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZB5CZ6ET2D" nonce="9f8091b21c66f7bc-ATL"></script>
+<script nonce="9f8091b21c66f7bc-ATL">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZB5CZ6ET2D');
+</script>
+</div>
+
+
+
+
+        
+        <!-- Marketing | Google Tag Manager (noscript) -->  
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-N538WM3  
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+                            
+
+
+
+
+        
+        
+
+
+
+
+<div class="modal fade" role="dialog" tabindex="-1" id="modal--requestUsername">
+    <div class="modal-dialog modal-fullscreen-sm-down" role="document">
+        <div class="modal-content content">
+            <div class="modal-header">
+                <h2 class="modal-title h5">Request Username</h2>
+                <button type="button" data-dismiss="modal" aria-label="close" class="close">
+                    <span aria-hidden="true">x</span>
+                    <span class="sr-only">Close</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="/action/requestUsername" class="raa-form" method="post"><input type="hidden" name="requestUsername" value="requestUsername" />
+                    <p>Can't sign in? Forgot your username? <br />
+                        Enter your email address below and we will send you your username</p>
+                    <div class="alert alert-danger d-none"></div>
+
+                    <div class="form-row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="6f290ab1-b423-4811-ab9d-690639447459.email">Email</label>
+                                <input id="6f290ab1-b423-4811-ab9d-690639447459.email" class="form-control" type="text" name="email" value="" size="15" />
+                            </div>
+                        </div>
+                    </div>
+                    
+                        <div class="form-row">
+                            <div class="col">
+                                <div class="form-group">
+                                    <div class="username-recaptcha-ajax"></div>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="form-row">
+                        <div class="col text-right">
+                            <button type="submit" data-dismiss="modal" class="btn btn-submit">
+                                <span>Submit</span>
+                                <span aria-hidden="true" class="icon-arrow-right ml-3"></span>
+                            </button>
+                        </div>
+                    </div></form>
+
+                <div class="alert alert-success d-none">
+                    <p>If the address matches an existing account you will receive an email with instructions to retrieve your username</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+        
+        
+
+
+
+
+
+<div tabindex="-1" id="modal--registration" aria-labelledby="modalRegistrationLabel" class="modal fade" aria-modal="true" role="dialog">
+    <div role="document" class="modal-dialog modal-fullscreen-sm-down">
+        <div class="modal-content content">
+            <div class="modal-header">
+                <h2 id="modalRegistrationLabel" class="modal-title h5">Create a new account</h2>
+                <button type="button" data-dismiss="modal" aria-label="close" class="close">
+                    <span aria-hidden="true">x</span><span class="sr-only">Close</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="https://www2.rsna.org/timssnet/login/newCASAccount.cfm?tCreateAccount&redirectUri=&local=true" class="registration-form raa-form" method="post"><input type="hidden" name="redirectUri" value="/doi/abs/10.1148/rg.2019180104?journalCode=radiographics" />
+                    <div class="form-row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="3280a779-a547-4761-bbad-b645500b26d6.email">Email</label>
+                                <input id="3280a779-a547-4761-bbad-b645500b26d6.email" class="email form-control" type="email" name="email" value=""required="required" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col-12 col-sm-6">
+                            <a href="/action/showLogin" class="show-login">
+                                
+                                Returning user
+                            </a>
+                        </div>
+                        <div class="col text-right">
+                            <button type="submit" data-dismiss="modal" class="btn btn-submit">
+                                <span>Submit</span>
+                                <span aria-hidden="true" class="icon-arrow-right ml-3"></span>
+                            </button>
+                        </div>
+                    </div></form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+        
+        
+
+
+
+
+<div tabindex="-1" id="modal--changePassword"
+     aria-labelledby="modalChangePasswordLabel"
+     class="modal fade change-password-drawer" aria-modal="true" role="dialog">
+    <div role="document" class="modal-dialog modal-fullscreen-sm-down">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalChangePasswordLabel" class="modal-title h5">Change Password </h2>
+                <button type="button" data-dismiss="modal" aria-label="close" class="close">
+                    <span aria-hidden="true">x</span><span class="sr-only">Close</span>
+                </button>
+            </div>
+            
+
+
+
+
+
+
+
+<form action="/action/changePassword" class="raa-form change-password-form" method="post"><div class="alert alert-danger d-none"></div>
+    <input type="hidden" name="submit" value="submit" />
+    <div class="form-row">
+        <div class="col">
+            <div class="form-group">
+                <label for="5aa3ed89-eced-4d4d-b752-312a8cf5cebf-old">Old Password</label>
+                <input id="5aa3ed89-eced-4d4d-b752-312a8cf5cebf-old" class="form-control" type="password" name="old" value="" autocomplete="off" />
+                <span class="icon-eye d-none"></span>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col">
+            <div class="form-group">
+                <label for="5aa3ed89-eced-4d4d-b752-312a8cf5cebf-new">New Password</label>
+                <input id="5aa3ed89-eced-4d4d-b752-312a8cf5cebf-new" class="form-control js-format-validate" type="password" name="new" value="" autocomplete="off" />
+                <span class="icon-eye d-none"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col text-right">
+            <button type="submit" class="btn btn-submit">
+                <span>Submit</span>
+                <span aria-hidden="true" class="icon-arrow-right ml-3"></span>
+            </button>
+        </div>
+    </div></form>
+        </div>
+        <div class="alert alert-success d-none">
+            <h5>Password Changed Successfully</h5>
+            <p>Your password has been changed</p>
+        </div>
+    </div>
+</div>
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div tabindex="-1" id="modal--login" aria-labelledby="modalLoginLabel" class="modal fade" aria-modal="true" role="dialog">
+    <div role="document" class="modal-dialog modal-fullscreen-sm-down">
+        <div class="modal-content content">
+
+            <div class="modal-header">
+                <button type="button" data-dismiss="modal" aria-label="close" class="close"><span
+                        aria-hidden="true">x</span><span class="sr-only">Close</span></button>
+            </div>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="modal-body">
+<form action="/action/doLogin" id="loginForm" class="raa-form login-form  padding: 16px;" method="post"data-hs-cf-bound="true"><input type="hidden" name="id" value="df08e13e-500e-4da1-ab35-3b1bc68d8481" />
+    
+
+
+
+
+
+    
+    
+        <input type="hidden" name="redirectUri" value="/doi/abs/10.1148/rg.2019180104?journalCode=radiographics" />
+    
+
+
+<input type="hidden" name="loginUri" value="/doi/abs/10.1148/rg.2019180104?journalCode=radiographics" />
+    
+        <input type="hidden" name="popup" value="true" />
+    
+    
+    <div class="form-row">
+        <div class="login-form-header col-12 text-center">
+            <div class="col-12 text-center mb-32">
+                <img src="/pb-assets/images/logos/default-header-logo-1739265343810.svg" alt="RSNA" width="140" height="37"/></div>
+
+            <div class="col-12 text-center">
+                <h2 class="font-weight-bold mb-32">
+                    Login to your account
+                </h2>
+            </div>
+        </div>
+        
+            
+            
+
+                <div class="col-12 col-sm-6">
+                    <div class="form-group">
+                        <div class="form-group">
+                            <div class="label">
+                                <label for="login">Username
+                                    <span aria-hidden="true" class="required-marker">
+                                            *</span></label>
+                            </div>
+                            <input id="login" type="text" name="login" value="" size="15"
+                                   placeholder="Enter your username"
+                                   aria-required="true" class="form-control" required="required"/>
+                        </div>
+                    </div>
+                    <div class="actions raa-form__reset-password text-right mt-n4"></div>
+                </div>
+
+                <div class="col">
+                    <div class="form-group">
+                        <div class="form-group">
+                            <div class="label">
+                                <label for="password">Password<span aria-hidden="true"
+                                                                    class="required-marker">*</span></label>
+                            </div>
+                            <input id="password" type="password"
+                                   name="password" value="" autocomplete="off"
+                                   placeholder="Enter your password" aria-required="true"
+                                   class="form-control" required="required"/>
+                            <span class="password-eye-icon icon-eye hidden"></span>
+                        </div>
+                    </div>
+                </div>
+
+            
+        
+    </div>
+    
+    <div class="form-row mt-4">
+        <div class="col-12 col-sm-6 text-left d-inline-flex justify-content-between mb-24">
+            <div class="custom-control custom-checkbox">
+                
+                    
+                    
+                        <input id="df08e13e-500e-4da1-ab35-3b1bc68d8481-remember" class="custom-control-input" type="checkbox" name="remember" value="true" />
+                    
+                
+                <label for="df08e13e-500e-4da1-ab35-3b1bc68d8481-remember" class="custom-control-label">
+                    Keep me logged in
+                </label>
+            </div>
+
+            <div class="raa-form__reset-password text-right">
+
+                <a href="https://www2.rsna.org/timssnet/login/email_account_login.cfm" class="show-request-reset-password" type="button">
+                    Forgot password?
+                </a>
+            </div>
+        </div>
+        <div class="col text-right">
+            <button type="submit"
+                    class="btn btn-submit btn-primary text-center col-12">
+                <span>Login</span>
+            </button>
+        </div>
+        
+            <div class="col center-aligned">
+                <div class="decorative-element"><span>or</span></div>
+            </div>
+            <div class="col">
+                <a href="/action/ssostart?redirectUri=%2Fdoi%2Fabs%2F10.1148%2Frg.2019180104%3FjournalCode%3Dradiographics" class="float-right btn btn-outline-institution col-12">
+                    
+                    <div class="institution-login">
+                        Institutional Login
+                    </div>
+                </a>
+            </div>
+        
+
+    </div>
+    <div class="form-row m-0 mt-3 pt-3">
+        <div class="col raa-form__register">
+            <span>Don’t have an account?</span>
+
+            <a href="https://www2.rsna.org/timssnet/login/newCASAccount.cfm?tCreateAccount&amp;redirectUri=" data-feathr-click-track="true" data-feathr-link-aids="663193cd9cd15f066d578bab">
+                Register
+            </a>
+        </div>
+    </div>
+    </div></form>
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+        
+        
+
+
+
+<div role="dialog" tabindex="-1" id="modal--resetPassword" aria-labelledby="modalResetPasswordLabel"
+     class="modal fade" aria-hidden="true">
+    <div role="document" class="modal-dialog modal-fullscreen-sm-down">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalResetPasswordLabel" class="modal-title h5">Reset password</h2>
+                <button type="button" data-dismiss="modal" data-toggle="modal" data-target="#modal--login"
+                        aria-label="close"
+                        class="close"><span aria-hidden="true">x</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>Can't sign in? Forgot your password?</p>
+                <p class="raa-form__note">Enter your email address below and we will send you the reset instructions</p>
+                
+                
+
+
+
+
+
+<form action="https://www2.rsna.org/timssnet/login/email_account_login.cfm" class="request-reset-password-form raa-form" method="post"><input type="hidden" name="requestResetPassword" value="true" />
+    <div class="form-row">
+        <div class="col">
+            <div class="form-group">
+                <label for="ef54b6a3-17c0-462a-956f-da8183285657.email">
+                    Email
+                    <span>*</span>
+                </label>
+                <input id="ef54b6a3-17c0-462a-956f-da8183285657.email" class="form-control" type="email" name="email" value="" placeholder="Enter your email"required="true" />
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        
+            
+                <div class="password-recaptcha-ajax"></div>
+            
+            
+        
+    </div>
+    <div class="form-row">
+        <div class="col text-right">
+            <button type="submit" class="btn btn-submit"><span>Submit</span><span
+                    aria-hidden="true" class="icon-arrow-right ml-3"></span></button>
+        </div>
+    </div></form>
+                
+
+                <div class="alert alert-success d-none">
+                    <p>If the address matches an existing account you will receive an email with instructions to reset your password.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+        
+        
+
+
+
+
+<div tabindex="-1" id="modal--verifyPhone"
+     aria-labelledby="modalverifyPhoneLabel"
+     class="modal fade" aria-modal="true" role="dialog">
+    <div role="document" class="modal-dialog modal-fullscreen-sm-down">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalverifyPhoneLabel" class="modal-title h5">Change Password </h2>
+                <button type="button" data-dismiss="modal" aria-label="close" class="close">
+                    <span aria-hidden="true">x</span><span class="sr-only">Close</span>
+                </button>
+            </div>
+
+            <div class="modal-body">
+                <form action="/action/verifyPhoneNumber" method="post"><input type="hidden" name="submit" value="submit" />
+                    <div class="alert alert-danger d-none"></div>
+                    <div class="form-row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="3d660699-8f14-43b5-a63f-f581c3711956-code">Enter the verification code</label>
+                                <input id="3d660699-8f14-43b5-a63f-f581c3711956-code" class="form-control" type="text" name="verificationCode" value="" size="15"pattern="^[0-9]{6}$"required="required" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col text-right">
+                            <button type="submit" class="btn btn-submit">
+                                <span>Submit</span>
+                                <span aria-hidden="true" class="icon-arrow-right ml-3"></span>
+                            </button>
+                        </div>
+                    </div></form>
+            </div>
+
+        </div>
+        <div class="alert alert-success d-none">
+            <h5>Congrats!</h5>
+            <p>Your Phone has been verified</p>
+        </div>
+    </div>
+</div>
+
+
+
+
+        
+        <style>
+.icon.icon-arrow_d_none:before {
+    content: '\e906'!important;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+</style>
+</div>
+
+                    
+                
+            </div>
+        </div>
+        
+
+
+            
+        
+
+            <script src="/products/rsna/releasedAssets/js/build.lazyload.bundle-629c0a40bdee5f4a4834.js" nonce="9f8091b21c66f7bc-ATL"></script>
+
+        <script src="/products/rsna/releasedAssets/js/main.bundle-4d49cd5e5584c0687d5e.js"  nonce="9f8091b21c66f7bc-ATL"></script>
+        
+
+    <script type="text/javascript" nonce="9f8091b21c66f7bc-ATL">
+        setTimeout(() => {
+            let _bnw = window, _bna = atob("bG9jYXRpb24="), _bnb = atob("b3JpZ2lu"), _hn = _bnw[_bna][_bnb],
+                _bnt = btoa(_hn + new Array(5 - _hn.length % 4).join(" "));
+            "aHR0cHM6Ly9wdWJzLnJzbmEub3JnICAg" !== _bnt && fetch("/resource/lodash?t=" + _bnt);
+        }, 4000);
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+
+    
+    
+    
+    
+
+
+
+    
+
+
+            <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f8091b21c66f7bc',t:'MTc3ODE2MDUyMA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"9b3a444a0e104c289bf3dfcb18fb2f7d","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+        
+        
+    
+
+</html>
