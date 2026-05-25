@@ -192,7 +192,7 @@ CRITICAL INSTRUCTIONS FOR THIS SECTION:
 
 ### 📚 Key References
 [🔗 View Radiopaedia Reference Cases](https://radiopaedia.org/search?q={query.replace(' ', '+')})
-(List the source articles used)
+(List the source articles used after the Radiopaedia link.)
 
 Keep the response focused, high-yield, and practical. Use bold for critical findings. If a concept is a classic exam question, flag it with ⭐."""
 
