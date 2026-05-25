@@ -185,7 +185,7 @@ CRITICAL INSTRUCTIONS FOR THIS SECTION:
 1. Look at the 'AVAILABLE LOCAL DIAGNOSTIC IMAGES' list. 
 2. If any image paths are directly relevant to the pathology or findings discussed in this review, list them here. If none are relevant, omit this section entirely.
 3. NEVER duplicate an image path. Each matching image path must appear exactly ONCE.
-4. For each relevant image, convert the raw snake_case filename into a standard, clean title capitalization format (e.g., convert 'images/Breast Imaging/fine_linear_calcifications.jpeg' to 'Fine-Linear Branching Calcifications').
+4. For each relevant image, convert the raw snake_case filename into a standard, clean title capitalization format (e.g., convert 'static/images/Breast Imaging/fine_linear_calcifications.jpeg' to 'Fine-Linear Calcifications').
 5. Format each entry exactly like this, placing a neat text caption right under the markdown image tag:
    ![Clean Image Title](/static/exact_path_from_list)
    *Figure: Clean Image Title*
