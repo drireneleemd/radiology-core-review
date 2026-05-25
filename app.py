@@ -43,15 +43,23 @@ GEMINI_MODEL = "gemini-2.5-flash-lite"
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def get_available_images() -> list[str]:
-    """Returns a list of all screenshot filenames available in the static images folder."""
+    """Returns a list of all screenshot filenames (including subfolders) 
+    available in the static images folder.
+    """
     image_dir = BASE_DIR / "static" / "images"
     if not image_dir.exists():
         return []
-    # Grab all png, jpg, and jpeg files
+        
     extensions = ("*.png", "*.jpg", "*.jpeg")
     found_images = []
+    
+    # rglob handles recursive searching through all subspecialty subfolders
     for ext in extensions:
-        found_images.extend([f.name for f in image_dir.glob(ext)])
+        for f in image_dir.rglob(ext):
+            # This gets the path relative to 'static/', e.g., 'images/Breast Imaging/molar_tooth.png'
+            relative_path = f.relative_to(BASE_DIR / "static")
+            found_images.append(str(relative_path))
+            
     return found_images
 
 
@@ -159,7 +167,7 @@ Please provide a structured, high-yield summary for exam preparation. Format you
 
 ### 🖼️ Imaging Findings
 (Organized by modality: what to look for on X-ray, CT, MRI, US as applicable.
-CRITICAL INSTRUCTION: Scan the 'AVAILABLE LOCAL DIAGNOSTIC IMAGES' list above. If any filename matches a pathology, classic sign, or finding you are describing below, embed it natively using exactly this markdown syntax: ![[Image Description]](/static/images/exact_filename_here). Place it right after the text describing that specific finding so the trainee can visually cross-reference it.)
+CRITICAL INSTRUCTION: Scan the 'AVAILABLE LOCAL DIAGNOSTIC IMAGES' list above. If any image path matches a pathology, classic sign, or finding you are discussing below, embed it natively using exactly this markdown syntax: ![[Image Description]](/static/exact_path_here). Place it right after the text describing that specific finding so the trainee can visually cross-reference it.)
 
 ### ⚠️ Pearls & Pitfalls
 (Classic teaching points, mimics, distinguishing features, common mistakes. You may also embed relevant matching local images here if applicable.)
