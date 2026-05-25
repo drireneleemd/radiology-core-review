@@ -43,8 +43,8 @@ GEMINI_MODEL = "gemini-2.5-flash-lite"
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def get_available_images() -> list[str]:
-    """Returns a list of all screenshot filenames (including subfolders) 
-    available in the static images folder.
+    """Returns a list of all screenshot paths inside static/images/,
+    fully URL-encoded so markdown engines can parse them safely.
     """
     image_dir = BASE_DIR / "static" / "images"
     if not image_dir.exists():
@@ -53,12 +53,18 @@ def get_available_images() -> list[str]:
     extensions = ("*.png", "*.jpg", "*.jpeg")
     found_images = []
     
-    # rglob handles recursive searching through all subspecialty subfolders
     for ext in extensions:
         for f in image_dir.rglob(ext):
-            # This gets the path relative to 'static/', e.g., 'images/Breast Imaging/molar_tooth.png'
+            # Get path relative to the 'static' folder
             relative_path = f.relative_to(BASE_DIR / "static")
-            found_images.append(str(relative_path))
+            
+            # Convert to standard web forward-slashes
+            path_str = str(relative_path).replace("\\", "/")
+            
+            # Crucial: Replace spaces with %20 so marked.js recognizes it as a valid URL
+            path_encoded = path_str.replace(" ", "%20")
+            
+            found_images.append(path_encoded)
             
     return found_images
 
@@ -143,7 +149,7 @@ def build_prompt(query: str, sources: list[dict], abr_context: str) -> str:
     if abr_context:
         abr_section = f"\n=== ABR ESSENTIALS STUDY GUIDE (relevant excerpt) ===\n{abr_context}\n"
 
-    # Gather any available screenshot filenames you have collected
+    # Gather available screenshot paths from disk
     available_images = get_available_images()
     image_list_str = ", ".join(available_images) if available_images else "None available right now"
 
@@ -156,31 +162,39 @@ Below are excerpts from Radiographics review articles and the ABR study guide th
 {''.join(source_blocks)}
 
 === AVAILABLE LOCAL DIAGNOSTIC IMAGES ===
-You have access to the following local image files on disk: [{image_list_str}]
+You have access to the following local image paths on disk: [{image_list_str}]
 
-Please provide a structured, high-yield summary for exam preparation. Format your response exactly as follows:
+Please provide a structured, high-yield summary for exam preparation. Format your response EXACTLY as follows. Do not alter the headings.
 
 ## {query.title()} — Key Teaching Points
 
 ### 🔑 Core Concepts
-(3-5 high-yield bullet points of the most important facts a radiologist must know)
+(3-5 high-yield bullet points of the most important facts a radiologist must know. DO NOT embed any images here.)
 
 ### 🖼️ Imaging Findings
-(Organized by modality: what to look for on X-ray, CT, MRI, US as applicable.
-CRITICAL INSTRUCTION: Scan the 'AVAILABLE LOCAL DIAGNOSTIC IMAGES' list above. If any image path matches a pathology, classic sign, or finding you are discussing below, embed it natively using exactly this markdown syntax: ![[Image Description]](/static/exact_path_here). Place it right after the text describing that specific finding so the trainee can visually cross-reference it.)
+(Organized by modality: what to look for on X-ray, CT, MRI, US as applicable. Highlight key diagnostic criteria. DO NOT embed any images here.)
 
 ### ⚠️ Pearls & Pitfalls
-(Classic teaching points, mimics, distinguishing features, common mistakes. You may also embed relevant matching local images here if applicable.)
+(Classic teaching points, mimics, distinguishing features, common mistakes. DO NOT embed any images here.)
 
 ### 📋 ABR Exam Tips
 (What the exam specifically tests on this topic based on the study guide. Emphasize high-yield, tested variants.)
+
+### 📷 High-Yield Visual Gallery
+CRITICAL INSTRUCTIONS FOR THIS SECTION:
+1. Look at the 'AVAILABLE LOCAL DIAGNOSTIC IMAGES' list. 
+2. If any image paths are directly relevant to the pathology or findings discussed in this review, list them here. If none are relevant, omit this section entirely.
+3. NEVER duplicate an image path. Each matching image path must appear exactly ONCE.
+4. For each relevant image, convert the raw snake_case filename into a standard, clean title capitalization format (e.g., convert 'images/Breast Imaging/fine_linear_calcifications.jpeg' to 'Fine-Linear Branching Calcifications').
+5. Format each entry exactly like this, placing a neat text caption right under the markdown image tag:
+   ![Clean Image Title](/static/exact_path_from_list)
+   *Figure: Clean Image Title*
 
 ### 📚 Key References
 [🔗 View Radiopaedia Reference Cases](https://radiopaedia.org/search?q={query.replace(' ', '+')})
 (List the source articles used)
 
 Keep the response focused, high-yield, and practical. Use bold for critical findings. If a concept is a classic exam question, flag it with ⭐."""
-
 
 # ── Routes ────────────────────────────────────────────────────────────────────
 
