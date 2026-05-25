@@ -207,42 +207,6 @@
     .search-btn:active { transform: translateY(0); }
     .search-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
 
-    /* ── Quick topics ── */
-    .quick-topics {
-      margin-top: 18px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-    }
-
-    .quick-label {
-      font-size: 11px;
-      font-family: var(--font-mono);
-      color: var(--text3);
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      margin-right: 4px;
-    }
-
-    .quick-chip {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      color: var(--text2);
-      font-size: 12px;
-      padding: 4px 12px;
-      border-radius: 20px;
-      cursor: pointer;
-      transition: all 0.15s;
-      font-family: var(--font-body);
-    }
-
-    .quick-chip:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-      background: rgba(79,195,247,0.06);
-    }
-
     /* ── Loading ── */
     .loading {
       display: none;
@@ -376,6 +340,18 @@
 
     .summary-body em { color: var(--text2); }
 
+    .summary-body a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(79, 195, 247, 0.35);
+      transition: border-color 0.15s, color 0.15s;
+    }
+
+    .summary-body a:hover {
+      color: var(--accent2);
+      border-bottom-color: var(--accent2);
+    }
+
     .summary-body code {
       background: var(--surface2);
       border: 1px solid var(--border);
@@ -392,18 +368,21 @@
       gap: 8px; 
     }
 
-    /* ── Ultimate Uniform Image Gallery System ── */
+    /* ── Image Gallery System ── */
+
+    /* Each image paragraph stacks vertically */
     .summary-body p:has(img) {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+      display: flex;
+      flex-direction: column;
       gap: 8px;
       margin-bottom: 10px;
     }
 
+    /* Every image spans the full column width */
     .summary-body img {
       display: block;
-      width: 100%;          /* fills its grid cell */
-      height: 240px;
+      width: 100%;
+      height: auto;
       object-fit: contain;
       background: #1c2330;
       border-radius: 6px;
@@ -411,8 +390,22 @@
       transition: transform 0.2s ease;
     }
 
+    /* Clicking zooms to full image in a new tab — wired up in JS below */
     .summary-body img:hover {
       transform: scale(1.02);
+      cursor: zoom-in;
+    }
+
+    /* Captions underneath the images */
+    .summary-body p + em {
+      display: block;
+      text-align: center;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text2);
+      margin-top: 8px;
+      margin-bottom: 24px;
+      letter-spacing: 0.02em;
     }
 
     /* ── Sources panel ── */
@@ -591,15 +584,6 @@
       <button class="search-btn" id="searchBtn" onclick="doSearch()">Search</button>
     </div>
 
-    <div class="quick-topics">
-      <span class="quick-label">Quick:</span>
-      <span class="quick-chip" onclick="quickSearch('pulmonary embolism')">Pulmonary Embolism</span>
-      <span class="quick-chip" onclick="quickSearch('aortic dissection')">Aortic Dissection</span>
-      <span class="quick-chip" onclick="quickSearch('appendicitis')">Appendicitis</span>
-      <span class="quick-chip" onclick="quickSearch('subarachnoid hemorrhage')">SAH</span>
-      <span class="quick-chip" onclick="quickSearch('Lisfranc')">Lisfranc</span>
-      <span class="quick-chip" onclick="quickSearch('ovarian torsion')">Ovarian Torsion</span>
-    </div>
   </div>
 
   <div class="loading" id="loading">
@@ -619,11 +603,13 @@
   // ── Marked config ──
   marked.setOptions({ breaks: true, gfm: true });
 
-  // ── Quick search ──
-  function quickSearch(topic) {
-    document.getElementById('queryInput').value = topic;
-    doSearch();
-  }
+  // Open all links rendered by marked in a new tab
+  const renderer = new marked.Renderer();
+  renderer.link = (href, title, text) => {
+    const titleAttr = title ? ` title="${title}"` : '';
+    return `<a href="${href}"${titleAttr} target="_blank" rel="noopener noreferrer">${text}</a>`;
+  };
+  marked.setOptions({ renderer });
 
   // ── Loading steps animation ──
   let stepTimers = [];
@@ -655,6 +641,7 @@
     btn.textContent = 'Searching…';
     loadingEl.classList.add('active');
     resultsEl.innerHTML = '';
+    document.getElementById('queryInput').value = '';
     startLoadingSteps();
 
     try {
@@ -733,6 +720,11 @@
 
     // Scroll to results
     el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+    // Click any image to open full-size in new tab
+    el.querySelectorAll('img').forEach(img => {
+      img.addEventListener('click', () => window.open(img.src, '_blank'));
+    });
   }
 
   // ── Toggle sources ──
