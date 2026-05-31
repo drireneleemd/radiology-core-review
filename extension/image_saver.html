@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Save Image to Library</title>
+  <style>
+    :root {
+      --bg:      #0d1117;
+      --surface: #161b22;
+      --surface2:#1c2330;
+      --border:  #2a3441;
+      --border2: #3d4f63;
+      --accent:  #4fc3f7;
+      --accent2: #00bcd4;
+      --gold:    #ffd54f;
+      --green:   #69f0ae;
+      --red:     #ef9a9a;
+      --text:    #e8edf3;
+      --text2:   #8b9bb4;
+      --text3:   #5c6e82;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-size: 13px;
+      padding: 0;
+    }
+
+    .header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .logo {
+      width: 28px; height: 28px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 13px; color: #0d1117;
+    }
+    .header-title { font-weight: 600; font-size: 13px; }
+    .header-sub   { font-size: 11px; color: var(--text3); margin-top: 1px; }
+
+    .panel { padding: 16px; }
+
+    /* Image preview */
+    .preview-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 120px;
+      max-height: 180px;
+    }
+    .preview-wrap img {
+      max-width: 100%;
+      max-height: 180px;
+      object-fit: contain;
+      display: block;
+    }
+    .preview-url {
+      font-size: 10px;
+      color: var(--text3);
+      word-break: break-all;
+      margin-bottom: 14px;
+      line-height: 1.4;
+      padding: 6px 10px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+    }
+
+    /* Form */
+    .field { margin-bottom: 12px; }
+    label {
+      display: block;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 5px;
+    }
+    select, input[type="text"] {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 13px;
+      padding: 8px 10px;
+      outline: none;
+      appearance: none;
+      transition: border-color 0.2s;
+    }
+    select {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%235c6e82' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+      padding-right: 28px;
+      cursor: pointer;
+    }
+    select option { background: var(--surface2); }
+    select:focus, input:focus { border-color: var(--accent); }
+
+    .hint {
+      font-size: 10px;
+      color: var(--text3);
+      margin-top: 4px;
+      line-height: 1.4;
+    }
+
+    /* Buttons */
+    .btn-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      margin-top: 4px;
+    }
+
+    .save-btn {
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      color: #0d1117;
+      border: none;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 13px;
+      padding: 10px;
+      cursor: pointer;
+      transition: opacity 0.2s, transform 0.15s;
+    }
+    .save-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+    .save-btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none; }
+
+    .cancel-btn {
+      background: var(--surface2);
+      color: var(--text2);
+      border: 1px solid var(--border2);
+      border-radius: 8px;
+      font-size: 13px;
+      padding: 10px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .cancel-btn:hover { border-color: var(--red); color: var(--red); }
+
+    /* Status */
+    .status {
+      display: none;
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    .status.success {
+      display: block;
+      background: rgba(105,240,174,0.08);
+      border: 1px solid rgba(105,240,174,0.3);
+      color: var(--green);
+    }
+    .status.error {
+      display: block;
+      background: rgba(239,154,154,0.08);
+      border: 1px solid rgba(239,154,154,0.3);
+      color: var(--red);
+    }
+    .status.loading {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(79,195,247,0.06);
+      border: 1px solid rgba(79,195,247,0.2);
+      color: var(--accent);
+    }
+    .spinner {
+      width: 14px; height: 14px;
+      border: 2px solid rgba(79,195,247,0.2);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      flex-shrink: 0;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .preview-unavailable {
+      color: var(--text3);
+      font-size: 11px;
+      padding: 20px;
+      text-align: center;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">Rx</div>
+  <div>
+    <div class="header-title">Save Image</div>
+    <div class="header-sub">Add to Radiology Library</div>
+  </div>
+</div>
+
+<div class="panel">
+
+  <!-- Preview -->
+  <div class="preview-wrap">
+    <img id="preview" src="" alt="Image preview" />
+  </div>
+  <div class="preview-url" id="srcUrl">Loading…</div>
+
+  <!-- Subspecialty -->
+  <div class="field">
+    <label>Subspecialty</label>
+    <select id="subspecialty">
+      <option value="Breast Imaging">Breast Imaging</option>
+      <option value="Cardiac">Cardiac</option>
+      <option value="Gastrointestinal">Gastrointestinal</option>
+      <option value="Interventional Radiology">Interventional Radiology</option>
+      <option value="Musculoskeletal">Musculoskeletal</option>
+      <option value="Neuroradiology">Neuroradiology</option>
+      <option value="Nuclear Radiology">Nuclear Radiology</option>
+      <option value="Pediatrics">Pediatrics</option>
+      <option value="Reproductive Endocrinology">Reproductive Endocrinology</option>
+      <option value="Thoracic">Thoracic</option>
+      <option value="Ultrasound">Ultrasound</option>
+      <option value="Urinary">Urinary</option>
+    </select>
+  </div>
+
+  <!-- Filename -->
+  <div class="field">
+    <label>Filename</label>
+    <input type="text" id="filename" placeholder="image.png" />
+    <div class="hint" id="pathHint">Saved to: static/images/Breast Imaging/{filename}</div>
+  </div>
+
+  <div class="btn-row">
+    <button class="cancel-btn" id="cancelBtn">Cancel</button>
+    <button class="save-btn"   id="saveBtn">💾 Save Image</button>
+  </div>
+
+  <div class="status" id="status"></div>
+
+</div>
+
+<script src="image_saver.js"></script>
+</body>
+</html>

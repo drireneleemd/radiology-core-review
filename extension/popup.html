@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Radiology Library</title>
+  <style>
+    :root {
+      --bg:      #0d1117;
+      --surface: #161b22;
+      --surface2:#1c2330;
+      --border:  #2a3441;
+      --border2: #3d4f63;
+      --accent:  #4fc3f7;
+      --accent2: #00bcd4;
+      --gold:    #ffd54f;
+      --green:   #69f0ae;
+      --red:     #ef9a9a;
+      --text:    #e8edf3;
+      --text2:   #8b9bb4;
+      --text3:   #5c6e82;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      width: 340px;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-size: 13px;
+    }
+
+    /* Header */
+    .header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .logo {
+      width: 28px; height: 28px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 13px; color: #0d1117;
+      flex-shrink: 0;
+    }
+
+    .header-title { font-weight: 600; font-size: 13px; color: var(--text); }
+    .header-sub   { font-size: 11px; color: var(--text3); margin-top: 1px; }
+
+    .settings-btn {
+      margin-left: auto;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text3);
+      cursor: pointer;
+      padding: 4px 8px;
+      font-size: 14px;
+      transition: all 0.15s;
+    }
+    .settings-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* Panels */
+    .panel { padding: 16px; }
+    .panel + .panel { border-top: 1px solid var(--border); }
+
+    /* Detected item */
+    .detected {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .detected-icon { font-size: 20px; flex-shrink: 0; margin-top: 1px; }
+
+    .detected-type {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 3px;
+    }
+
+    .detected-url {
+      font-size: 11px;
+      color: var(--text2);
+      word-break: break-all;
+      line-height: 1.4;
+      max-height: 44px;
+      overflow: hidden;
+    }
+
+    /* No PDF state */
+    .no-content {
+      text-align: center;
+      padding: 24px 16px;
+      color: var(--text3);
+    }
+
+    .no-content .big-icon { font-size: 32px; margin-bottom: 8px; }
+    .no-content p { font-size: 12px; line-height: 1.5; }
+
+    /* Form fields */
+    .field { margin-bottom: 12px; }
+
+    label {
+      display: block;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 5px;
+    }
+
+    select, input[type="text"] {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 13px;
+      padding: 8px 10px;
+      outline: none;
+      appearance: none;
+      transition: border-color 0.2s;
+    }
+
+    select {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%235c6e82' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+      padding-right: 28px;
+      cursor: pointer;
+    }
+
+    select option { background: var(--surface2); }
+    select:focus, input:focus { border-color: var(--accent); }
+
+    /* Send button */
+    .send-btn {
+      width: 100%;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      color: #0d1117;
+      border: none;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 13px;
+      padding: 10px;
+      cursor: pointer;
+      transition: opacity 0.2s, transform 0.15s;
+      letter-spacing: 0.01em;
+    }
+
+    .send-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+    .send-btn:active { transform: translateY(0); }
+    .send-btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none; }
+
+    /* Status */
+    .status {
+      display: none;
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .status.success {
+      display: block;
+      background: rgba(105,240,174,0.08);
+      border: 1px solid rgba(105,240,174,0.3);
+      color: var(--green);
+    }
+
+    .status.error {
+      display: block;
+      background: rgba(239,154,154,0.08);
+      border: 1px solid rgba(239,154,154,0.3);
+      color: var(--red);
+    }
+
+    .status.loading {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(79,195,247,0.06);
+      border: 1px solid rgba(79,195,247,0.2);
+      color: var(--accent);
+    }
+
+    .spinner {
+      width: 14px; height: 14px;
+      border: 2px solid rgba(79,195,247,0.2);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      flex-shrink: 0;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Settings panel */
+    #settingsPanel {
+      display: none;
+      padding: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    #settingsPanel.open { display: block; }
+
+    .settings-title {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 12px;
+    }
+
+    .save-btn {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 12px;
+      padding: 8px;
+      cursor: pointer;
+      margin-top: 4px;
+      transition: all 0.15s;
+    }
+
+    .save-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    .hint {
+      font-size: 10px;
+      color: var(--text3);
+      margin-top: 4px;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="logo">Rx</div>
+  <div>
+    <div class="header-title">Radiology Library</div>
+    <div class="header-sub">Add to Core Review</div>
+  </div>
+  <button class="settings-btn" id="settingsToggle" title="Settings">⚙</button>
+</div>
+
+<!-- Settings panel (hidden by default) -->
+<div id="settingsPanel">
+  <div class="settings-title">GitHub Configuration</div>
+  <div class="field">
+    <label>GitHub Token</label>
+    <input type="text" id="cfgToken" placeholder="ghp_xxxxxxxxxxxx" />
+    <div class="hint">Settings → Developer settings → Personal access tokens (repo scope)</div>
+  </div>
+  <div class="field">
+    <label>GitHub Repo (owner/repo)</label>
+    <input type="text" id="cfgRepo" placeholder="yourname/radiology-review" />
+  </div>
+  <div class="field">
+    <label>Branch</label>
+    <input type="text" id="cfgBranch" placeholder="main" />
+  </div>
+  <button class="save-btn" id="saveSettings">Save Settings</button>
+  <div id="saveStatus" class="hint" style="margin-top:8px;color:var(--green);display:none">✓ Saved!</div>
+</div>
+
+<!-- Main panel -->
+<div class="panel" id="mainPanel">
+
+  <!-- Detected content -->
+  <div id="detectedArea"></div>
+
+  <!-- Form (shown when content detected) -->
+  <div id="formArea" style="display:none">
+    <div class="field">
+      <label>Subspecialty</label>
+      <select id="subspecialty">
+        <option value="Breast Imaging">Breast Imaging</option>
+        <option value="Cardiac">Cardiac</option>
+        <option value="Gastrointestinal">Gastrointestinal</option>
+        <option value="Interventional Radiology">Interventional Radiology</option>
+        <option value="Musculoskeletal">Musculoskeletal</option>
+        <option value="Neuroradiology">Neuroradiology</option>
+        <option value="Nuclear Radiology">Nuclear Radiology</option>
+        <option value="Pediatrics">Pediatrics</option>
+        <option value="Reproductive Endocrinology">Reproductive Endocrinology</option>
+        <option value="Thoracic">Thoracic</option>
+        <option value="Ultrasound">Ultrasound</option>
+        <option value="Urinary">Urinary</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label>Custom Filename (optional)</label>
+      <input type="text" id="customName" placeholder="leave blank to use original name" />
+    </div>
+
+    <button class="send-btn" id="sendBtn">📤 Add to Library</button>
+
+    <div class="status" id="statusMsg"></div>
+  </div>
+
+</div>
+
+<script src="popup.js"></script>
+</body>
+</html>
